@@ -1,0 +1,2001 @@
+end_date,state,days_left,pollster,sample_size,Captain America,Iron Man
+2020-10-27,MA,7,SurveyMonkey,5647,51,40.9
+2020-10-20,TN,14,SurveyMonkey,4332,44.74,51.48
+2020-07-01,WI,125,Morning Consult,797,48,27
+2020-11-01,MI,2,Change Research,383,48,46
+2020-10-27,IA,7,SurveyMonkey,2918,45,38.1
+2020-08-07,NC,88,Pulse Opinion Research,750,40,44
+2020-06-17,AZ,139,Redfield & Wilton Strategies,865,56,43
+2020-08-18,WI,77,Morning Consult,797,42,47.5
+2020-10-13,IN,21,SurveyMonkey,3185,55,40
+2020-09-27,GA,37,Hart Research Associates,400,52,38
+2020-10-21,MI,13,SurveyMonkey,6607,50,44
+2020-06-19,WI,137,Morning Consult,797,47,49
+2020-10-02,PA,32,YouGov,1187,48,39
+2020-08-31,DE,64,SurveyMonkey,348,42.5,47
+2020-10-06,GA,28,U. Georgia SPIA,1106,47,28
+2020-10-31,FL,3,Siena College/NYT Upshot,1451,49,42
+2020-10-11,CO,23,Morning Consult,837,51,43
+2020-10-20,MI,14,Morning Consult,1717,50,37
+2020-07-07,AZ,119,OH Predictive Insights / MBQF,600,36.4,47
+2020-10-10,PA,24,Redfield & Wilton Strategies,1145,44,50
+2020-09-02,IA,62,Opinion Insight,800,43,32
+2020-10-04,AZ,30,Change Research,296,42,46
+2020-10-27,MT,7,SurveyMonkey,1401,44,52
+2020-10-26,NC,8,Swayable,396,46,34
+2020-10-06,AZ,28,Latino Decisions,600,58,35
+2020-10-28,WY,6,SurveyMonkey,739,47,43
+2020-10-16,NY,18,SurveyMonkey,9878,41,56
+2020-11-02,FL,1,The Political Matrix/The Listener Group,966,50,45
+2020-10-16,AR,18,SurveyMonkey,1577,44,44
+2020-10-22,VA,12,SurveyMonkey,6665,50,41.36
+2020-10-22,AK,12,SurveyMonkey,989,54,38
+2020-10-30,NY,4,SurveyMonkey,5769,51,38
+2020-11-02,MA,1,SurveyMonkey,3653,55,34
+2020-10-19,GA,15,Emerson College Polling Society,506,45.8,39
+2020-10-28,MI,6,Wick,1000,47,38
+2020-10-20,IL,14,SurveyMonkey,7436,47.6,49
+2020-10-26,AZ,8,Swayable,304,49,39
+2020-10-16,NJ,18,SurveyMonkey,4817,50,36
+2020-10-22,SC,12,SurveyMonkey,4255,39,50
+2020-10-19,WI,15,Ipsos,663,53,37.4
+2020-10-20,PA,14,SurveyMonkey,9131,43,43
+2020-09-19,PA,45,Hart Research Associates,400,52,46
+2020-08-31,NE,64,SurveyMonkey,560,49,48.3
+2020-09-30,VA,34,SurveyMonkey,2882,47,35
+2020-10-19,PA,15,SurveyMonkey,8803,42,31.1
+2020-10-30,FL,4,Emerson College Polling Society,849,55,12.04
+2020-10-23,LA,11,SurveyMonkey,2548,49,48.4
+2020-10-21,GA,13,Landmark Communications,500,48,35.5
+2020-10-18,KY,16,SurveyMonkey,2788,35,50.31
+2020-09-04,WI,60,Morning Consult,775,60,31
+2020-10-14,AK,20,SurveyMonkey,796,51,31.78
+2020-06-21,WI,135,Morning Consult,797,53.55,37.8
+2020-10-17,VT,17,SurveyMonkey,759,41,45
+2020-07-21,NC,105,Redfield & Wilton Strategies,919,44,49.6
+2020-09-30,SC,34,SurveyMonkey,1833,42,44.41
+2020-07-31,AR,95,SurveyMonkey,747,59,35.52
+2020-11-01,PA,2,aytm.com,340,45,41
+2020-10-27,OH,7,Quinnipiac,1186,59,33
+2020-07-31,FL,95,SurveyMonkey,13945,51.23,44
+2020-10-26,PA,8,Swayable,491,50,37
+2020-10-19,VA,15,SurveyMonkey,5912,46.6,48
+2020-08-31,AL,64,SurveyMonkey,1220,50,40.1
+2020-10-24,NV,10,SurveyMonkey,2967,54.19,39
+2020-09-21,GA,43,Siena College/NYT Upshot,523,37.8,44
+2020-10-31,MA,3,SurveyMonkey,3462,48,46
+2020-10-18,UT,16,SurveyMonkey,2187,40,46
+2020-10-27,ID,7,SurveyMonkey,1758,43.78,41.77
+2020-09-02,TX,62,University of Texas at Tyler,901,48,36
+2020-10-14,NH,20,SurveyMonkey,1153,51,33
+2020-09-03,FL,61,Trafalgar Group,1022,47,38
+2020-08-31,OK,64,SoonerPoll.com,379,51,41
+2020-10-26,FL,8,YouGov,1200,41.43,39
+2020-08-16,OH,79,Morning Consult,1744,43,44.12
+2020-11-01,MN,2,SurveyMonkey,2727,47,36
+2020-10-18,AL,16,SurveyMonkey,2710,55,36
+2020-10-28,MO,6,SurveyMonkey,4759,54.1,36.66
+2020-11-01,SC,2,Swayable,426,45,46
+2020-06-30,WV,126,SurveyMonkey,264,38.5,49
+2020-11-01,IN,2,Swayable,264,49.63,46.7
+2020-09-02,OH,62,Rasmussen (Pulse Opinion Research),1000,48,45
+2020-09-19,FL,45,Hart Research Associates,400,36,47
+2020-09-30,MN,34,SurveyMonkey,2808,55,32
+2020-10-18,DE,16,SurveyMonkey,989,38,45
+2020-10-23,FL,11,SurveyMonkey,14035,47,36
+2020-10-19,MS,15,SurveyMonkey,1442,50,49
+2020-10-04,NC,30,Change Research,396,50,34.78
+2020-10-13,VA,21,SurveyMonkey,4522,51.5,47
+2020-10-13,TX,21,SurveyMonkey,13081,45,41
+2020-09-16,PA,48,Ipsos,611,53,44
+2020-10-18,MI,16,Zia Poll,2851,45.37,43
+2020-10-20,IN,14,SurveyMonkey,4121,49,46
+2020-07-26,FL,100,Change Research,685,58,29
+2020-10-29,KS,5,SurveyMonkey,2569,45,39
+2020-10-28,FL,6,Monmouth U.,509,72,28
+2020-11-02,MT,1,Change Research,920,56,35.7
+2020-07-31,VT,95,SurveyMonkey,368,44,39
+2020-10-18,NC,16,East Carolina University,1155,44,39.2
+2020-09-01,ID,63,Spry Strategies,600,49.2,42
+2020-10-24,CA,10,SurveyMonkey,22268,37,43
+2020-10-19,WI,15,Ipsos,663,58,24.770000000000003
+2020-10-14,CO,20,SurveyMonkey,4345,52.59,37
+2020-10-15,SD,19,SurveyMonkey,723,48,49.4
+2020-06-30,NV,126,SurveyMonkey,609,72,26
+2020-10-04,PA,30,Monmouth U.,500,50.97,43
+2020-09-22,MI,42,Trafalgar Group,1015,46,30
+2020-06-10,WI,146,Morning Consult,797,39,44
+2020-08-19,WI,76,Redfield & Wilton Strategies,672,47,37
+2020-08-22,WI,73,Morning Consult,797,44,43
+2020-09-03,MI,61,Rasmussen (Pulse Opinion Research),1000,48.3,47.1
+2020-07-10,TX,116,YouGov,1185,52,43
+2020-09-19,MI,45,Data for Progress,455,60.21,37
+2020-06-08,WI,148,Morning Consult,797,62,34
+2020-10-31,TX,3,Morning Consult,3267,50,39
+2020-10-28,WY,6,University of Wyoming,614,53,47
+2020-10-24,NJ,10,Rutgers-Eagleton,872,64,19.4
+2020-10-13,NC,21,Ipsos,660,42.83,40.76
+2020-10-27,ND,7,SurveyMonkey,654,46.95,43
+2020-08-09,WI,86,Change Research,384,31,54
+2020-07-12,AZ,114,Change Research,345,40,47
+2020-09-24,WI,40,Marist,727,42,42
+2020-10-23,TN,11,SurveyMonkey,4565,47.4,44
+2020-10-15,PA,19,SurveyMonkey,7804,47,37.4
+2020-09-08,NC,56,Rasmussen (Pulse Opinion Research),1000,53,47
+2020-10-26,MN,8,Gravis Marketing,657,45.31,44
+2020-11-01,UT,2,SurveyMonkey,1435,56,44
+2020-09-21,VA,43,Christopher Newport U.,796,44.8,44
+2020-07-31,WA,95,SurveyMonkey,7691,39,52
+2020-09-04,WI,60,Morning Consult,775,39,44
+2020-07-31,ME,95,SurveyMonkey,733,45.74,38
+2020-09-20,GA,44,U. Georgia SPIA,1150,53,43
+2020-07-31,TN,95,SurveyMonkey,2481,48,34.38
+2020-10-30,DC,4,SurveyMonkey,501,50,49
+2020-10-17,AK,17,SurveyMonkey,941,45.9,49
+2020-08-30,PA,65,Morning Consult,2158,49,47.1
+2020-10-20,CT,14,SurveyMonkey,3105,50.52,42
+2020-10-20,GA,14,Citizen Data,1000,52.5,32
+2020-10-24,WA,10,SurveyMonkey,7371,46,42
+2020-09-02,MI,62,Opinion Insight,800,48.8,48
+2020-09-20,FL,44,Change Research,702,65,20.549999999999997
+2020-10-16,MA,18,SurveyMonkey,4325,34.48,42
+2020-09-16,NJ,48,DKC Analytics,501,45,39
+2020-10-02,PA,32,Siena College/NYT Upshot,706,51,43
+2020-09-16,KS,48,co/efficient,794,42,50
+2020-09-16,AZ,48,Redfield & Wilton Strategies,855,49.6,40.5
+2020-09-17,IA,47,Selzer,658,36,47.4
+2020-08-31,WI,64,Morning Consult,819,40,32
+2020-08-04,AZ,91,OH Predictive Insights / MBQF,603,48.1,49
+2020-07-31,CT,95,SurveyMonkey,1360,49,44
+2020-10-21,OH,13,SurveyMonkey,7033,46,45
+2020-10-13,CO,21,SurveyMonkey,4111,40,35
+2020-10-18,SC,16,SurveyMonkey,3666,55,32.5
+2020-08-09,ME,86,Critical Insights,453,45,42
+2020-10-19,MS,15,SurveyMonkey,1442,42,43
+2020-06-30,KY,126,SurveyMonkey,596,45.2,46.6
+2020-10-12,CO,22,SurveyMonkey,3875,40,48
+2020-08-18,MI,77,Redfield & Wilton Strategies,812,41,40
+2020-10-27,NC,7,Gravis Marketing,614,30,56
+2020-09-20,ME,44,Suffolk,500,50,36
+2020-11-01,OR,2,SurveyMonkey,3252,53,36.82
+2020-10-03,AZ,31,Patinkin Research Strategies,604,48,49
+2020-09-14,PA,50,Redfield & Wilton Strategies,1036,47,46.2
+2020-10-12,CO,22,SurveyMonkey,3875,45,43
+2020-10-30,AZ,4,Data Orbital,550,52,46
+2020-10-12,NV,22,SurveyMonkey,1915,45,38.96
+2020-09-18,TX,46,YouGov,1140,53,44
+2020-10-20,UT,14,SurveyMonkey,2279,48,39.2
+2020-10-31,IL,3,SurveyMonkey,5013,49,49.8
+2020-10-27,MS,7,SurveyMonkey,1900,58,39
+2020-09-21,WI,43,YouGov,664,45,40
+2020-10-18,ME,16,SurveyMonkey,1389,50,36
+2020-08-18,AZ,77,Redfield & Wilton Strategies,856,43,53.49
+2020-06-30,LA,126,SurveyMonkey,1134,46,49
+2020-10-21,DC,13,SurveyMonkey,825,50.8,44
+2020-07-10,FL,116,YouGov,1206,43,41.69
+2020-11-02,WI,1,SurveyMonkey,2814,47,44
+2020-10-22,LA,12,U. New Orleans,755,46,50
+2020-10-31,PA,3,Morning Consult,2686,48,44.95
+2020-10-29,NE,5,SurveyMonkey,1678,72,27
+2020-09-28,NH,36,U. New Hampshire,972,47.3,42.17
+2020-10-20,MT,14,Siena College/NYT Upshot,758,38.1,54
+2020-10-25,NE,9,SurveyMonkey,1777,73,22
+2020-10-31,PA,3,InsiderAdvantage,500,53,30
+2020-10-19,WA,15,SurveyMonkey,7652,50,42
+2020-10-19,AZ,15,RMG Research,800,49,36
+2020-09-30,LA,34,SurveyMonkey,2475,56,42
+2020-10-20,WI,14,SurveyMonkey,4513,48,47
+2020-06-20,WI,136,Morning Consult,797,43,43
+2020-10-29,MO,5,Remington,1010,46.6,53
+2020-10-30,MN,4,Targoz Market Research,1138,51,44
+2020-10-17,MT,17,SurveyMonkey,897,54.68,44
+2020-10-25,PA,9,InsiderAdvantage,400,43,51
+2020-10-13,WA,21,SurveyMonkey,7664,45,34
+2020-07-31,MD,95,SurveyMonkey,1911,48,46.1
+2020-10-27,GA,7,Monmouth U.,504,57,41
+2020-07-31,NM,95,SurveyMonkey,904,49,48
+2020-11-01,PA,2,Ipsos,673,56,32
+2020-08-12,WI,83,Morning Consult,797,46,38
+2020-09-30,MA,34,SurveyMonkey,2665,43,31
+2020-10-27,MI,7,SurveyMonkey,7272,50,43
+2020-10-05,AZ,29,HighGround,400,36,35
+2020-09-28,SC,36,Data for Progress,824,41,43
+2020-10-24,AZ,10,Patinkin Research Strategies,729,44,51
+2020-10-31,GA,3,Morning Consult,1743,51,46
+2020-10-25,WI,9,Marquette Law School,749,50,45
+2020-10-22,DE,12,SurveyMonkey,1161,33,50
+2020-10-17,MI,17,SurveyMonkey,5930,58,38.7
+2020-09-22,TX,42,Siena College/NYT Upshot,653,39.5,51
+2020-06-05,MN,151,Morning Consult,600,52,47
+2020-10-20,MN,14,Civiqs,840,39,48
+2020-09-04,PA,60,Susquehanna,498,52,44
+2020-10-20,HI,14,SurveyMonkey,1054,49,32
+2020-07-01,WI,125,Morning Consult,797,48,43
+2020-10-17,CT,17,SurveyMonkey,2907,44,41
+2020-07-31,AK,95,SurveyMonkey,412,40.2,49
+2020-10-14,AK,20,Siena College/NYT Upshot,423,49,36
+2020-11-01,LA,2,SurveyMonkey,1388,54.3,5
+2020-10-22,SD,12,SurveyMonkey,910,43.9,53.08
+2020-10-05,PA,29,Quinnipiac,1211,45,45
+2020-10-21,OH,13,SurveyMonkey,7033,52,37
+2020-07-24,ME,102,Colby College,888,44.1,54.92
+2020-10-28,PA,6,Wick,1000,36,54.3
+2020-09-08,FL,56,Benenson Strategy Group/GS Strategy Group,1600,50,49.15
+2020-07-10,FL,116,YouGov,1206,54,44
+2020-08-16,WI,79,Morning Consult,788,47,38
+2020-10-18,ND,16,SurveyMonkey,490,49,36
+2020-06-27,AZ,129,Gravis Marketing,527,42,45
+2020-09-29,NY,35,Siena,504,43,44
+2020-10-25,NM,9,SurveyMonkey,2584,47.6,42
+2020-10-28,NJ,6,SurveyMonkey,6472,38,52
+2020-10-22,NC,12,Trafalgar Group,1098,46.89,44.2
+2020-10-29,VT,5,SurveyMonkey,749,35.2,41
+2020-10-18,FL,16,SurveyMonkey,14184,50,42
+2020-10-13,MS,21,SurveyMonkey,1118,44,40
+2020-10-19,ND,15,SurveyMonkey,511,47,43.4
+2020-10-25,AK,9,SurveyMonkey,1120,54,37
+2020-10-14,WI,20,SurveyMonkey,4425,56,31
+2020-09-30,GA,34,Landmark Communications,500,46,49
+2020-07-07,TX,119,University of Texas at Tyler,1677,39,57
+2020-10-30,ME,4,SurveyMonkey,1248,40,49
+2020-10-29,ND,5,SurveyMonkey,399,45,35
+2020-10-05,NJ,29,Fairleigh Dickinson,582,44,41
+2020-10-27,MD,7,SurveyMonkey,5665,48.8,45
+2020-08-23,NC,72,Morning Consult,1541,37,50
+2020-07-07,AZ,119,OH Predictive Insights / MBQF,600,37,51
+2020-10-27,RI,7,SurveyMonkey,863,61,32.56
+2020-10-13,AR,21,SurveyMonkey,1311,43,45
+2020-10-12,NV,22,SurveyMonkey,1915,39.5,47
+2020-07-17,WI,109,Global Strategy Group,600,52,45.5
+2020-06-29,AZ,127,Data Orbital,600,48,36
+2020-09-06,MI,58,Change Research,876,42,41
+2020-10-16,LA,18,SurveyMonkey,2413,38.57,48
+2020-10-24,IN,10,SurveyMonkey,4382,39,43
+2020-07-12,NJ,114,DKC Analytics,500,40,53
+2020-08-08,AZ,87,Trafalgar Group,1013,48.91,39
+2020-10-12,SD,22,SurveyMonkey,547,50,47
+2020-10-28,AZ,6,SurveyMonkey,5687,44,44
+2020-10-06,NC,28,Redfield & Wilton Strategies,938,47,49
+2020-10-29,AK,5,SurveyMonkey,663,49,48
+2020-11-01,OR,2,SurveyMonkey,3252,75,22
+2020-10-11,NC,23,Monmouth U.,500,52,42
+2020-10-18,KS,16,SurveyMonkey,2581,53,43
+2020-10-05,TX,29,Data for Progress,1949,51.74,44
+2020-10-25,IN,9,SurveyMonkey,4431,50,45
+2020-07-31,TX,95,SurveyMonkey,13721,37,43.8
+2020-09-02,GA,62,Opinion Insight,800,44.3,54
+2020-11-02,NE,1,SurveyMonkey,1742,38,48
+2020-10-26,NV,8,Siena College/NYT Upshot,809,47,41
+2020-07-20,WI,106,Spry Strategies,700,47,47.1
+2020-10-16,CT,18,SurveyMonkey,2862,52,46
+2020-10-11,GA,23,Data for Progress,782,43,41
+2020-10-31,AK,3,SurveyMonkey,614,49,41.95
+2020-10-27,MT,7,SurveyMonkey,1401,53,43
+2020-09-28,AZ,36,Susquehanna,500,42,41
+2020-10-28,LA,6,SurveyMonkey,2633,49.5,43
+2020-10-21,GA,13,Landmark Communications,500,46,51.91
+2020-10-09,IA,25,YouGov,1035,39.6,48
+2020-10-06,MI,28,Ipsos,709,47.3,42
+2020-09-30,NM,34,SurveyMonkey,1015,48,41
+2020-09-21,MI,43,YouGov,641,47,40
+2020-10-28,NV,6,Gravis Marketing,688,43,44
+2020-07-31,WI,95,SurveyMonkey,2173,34,49.1
+2020-09-10,NV,54,Siena College/NYT Upshot,462,40,37
+2020-09-30,ME,34,SurveyMonkey,729,51,31
+2020-08-31,NY,64,SurveyMonkey,9969,41,44
+2020-10-19,MI,15,SurveyMonkey,6222,46,43
+2020-10-13,AZ,21,SurveyMonkey,5690,33,49
+2020-11-02,WA,1,SurveyMonkey,4142,48,43
+2020-10-15,PA,19,Harris Poll,992,44.9,52
+2020-09-14,SC,50,Quinnipiac,969,48,43
+2020-10-20,SC,14,SurveyMonkey,3943,37,38
+2020-10-11,NC,23,Susquehanna,500,53.8,44
+2020-10-11,WI,23,Siena College/NYT Upshot,789,51.5,48
+2020-10-22,PA,12,SurveyMonkey,9615,46,46
+2020-07-31,UT,95,SurveyMonkey,1037,43,28
+2020-10-29,MN,5,SurveyMonkey,3011,49,43
+2020-10-19,KS,15,SurveyMonkey,2718,50,37
+2020-10-30,PA,4,Emerson College Polling Society,823,48,44.9
+2020-10-25,FL,9,Florida Atlantic University,937,53,34
+2020-10-12,OK,22,SurveyMonkey,1683,42,42.3
+2020-10-20,KS,14,SurveyMonkey,2825,43,47.68
+2020-09-13,FL,51,Monmouth U.,428,51.25,35
+2020-10-17,WY,17,SurveyMonkey,553,40,48
+2020-10-24,ME,10,SurveyMonkey,1743,39,51
+2020-11-02,IL,1,SurveyMonkey,5643,48,47.5
+2020-07-27,CA,99,UC Berkeley,6756,36,58
+2020-10-26,VA,8,Swayable,351,43,57
+2020-10-12,FL,22,SurveyMonkey,12604,30,44
+2020-08-02,MT,93,Emerson College Polling Society,584,48.5,44
+2020-10-15,MD,19,SurveyMonkey,4105,40,59
+2020-10-27,MT,7,SurveyMonkey,1401,72,26
+2020-10-18,CA,16,SurveyMonkey,22780,38,50
+2020-10-24,ME,10,SurveyMonkey,1743,47,36
+2020-11-01,NJ,2,Swayable,324,42,43
+2020-09-11,WI,53,Morning Consult,797,44.4,38
+2020-10-25,WI,9,ABC/Washington Post,809,49,46.5
+2020-10-14,WI,20,SurveyMonkey,4425,42,42.62
+2020-09-19,KY,45,Data for Progress,807,40,55
+2020-10-27,PA,7,SurveyMonkey,10250,44.9,26.8
+2020-11-01,ND,2,SurveyMonkey,370,55,42
+2020-11-02,NM,1,SurveyMonkey,1481,45,38
+2020-08-08,GA,87,SurveyUSA,623,42,55
+2020-10-27,DE,7,SurveyMonkey,1288,49,46
+2020-08-16,FL,79,Redfield & Wilton Strategies,1280,47,32
+2020-10-16,NH,18,SurveyMonkey,1301,49,46.2
+2020-06-11,MO,145,Remington,1152,56,37.5
+2020-10-20,KS,14,Siena College/NYT Upshot,755,40,46
+2020-10-31,CO,3,SurveyMonkey,2888,51,41
+2020-08-23,WI,72,Morning Consult,797,52,42.03
+2020-10-22,NE,12,SurveyMonkey,1643,57,37
+2020-08-31,WI,64,Morning Consult,819,49,48.6
+2020-09-20,GA,44,U. Georgia SPIA,1150,39,46
+2020-10-31,PA,3,InsiderAdvantage,500,40,42
+2020-11-02,FL,1,SurveyMonkey,8792,57,43
+2020-11-01,FL,2,Quinnipiac,1657,40,50
+2020-10-20,RI,14,SurveyMonkey,716,44,42
+2020-10-14,CT,20,SurveyMonkey,2453,45,47
+2020-10-22,GA,12,SurveyMonkey,6533,40.94,45
+2020-09-21,GA,43,Siena College/NYT Upshot,523,47,39
+2020-10-23,NM,11,SurveyMonkey,2519,44,41.2
+2020-11-01,OH,2,Rasmussen (Pulse Opinion Research),800,44,43
+2020-09-16,NJ,48,DKC Analytics,501,44,40.5
+2020-08-09,WI,86,Change Research,384,40,6
+2020-08-31,DE,64,SurveyMonkey,348,48,37.05
+2020-11-01,GA,2,InsiderAdvantage,500,53.1,35
+2020-10-28,PA,6,Wick,1000,36,44
+2020-10-18,HI,16,SurveyMonkey,987,44.9,48
+2020-10-13,TN,21,SurveyMonkey,3308,45,55
+2020-10-27,IN,7,SurveyMonkey,4585,52,36
+2020-07-07,TX,119,Gravis Marketing,591,39.7,43
+2020-06-30,MA,126,SurveyMonkey,1091,46.9,43
+2020-10-28,MI,6,Trafalgar Group,1058,38,45
+2020-07-30,MI,96,EPIC/MRA,600,40,43.4
+2020-10-05,TX,29,Data for Progress,1949,53,34
+2020-10-21,SC,13,SurveyMonkey,4109,45,51
+2020-10-31,PA,3,InsiderAdvantage,500,54,36
+2020-07-07,AK,119,Alaska Survey Research,663,39,38.31
+2020-08-04,WI,91,Morning Consult,797,52,42.7
+2020-10-28,MD,6,SurveyMonkey,5820,54,42
+2020-10-20,MD,14,SurveyMonkey,4780,58,32
+2020-10-28,MI,6,SurveyMonkey,7541,40,32
+2020-10-13,NV,21,SurveyMonkey,1958,49,48
+2020-10-18,NV,16,SurveyMonkey,2492,54,36
+2020-10-20,WI,14,RMG Research,800,51,42
+2020-10-29,MT,5,SurveyMonkey,980,55,44
+2020-10-30,NY,4,SurveyMonkey,5769,45.5,45
+2020-09-13,AZ,51,Patinkin Research Strategies,679,49,51
+2020-08-16,AZ,79,Morning Consult,947,63,36
+2020-10-05,AZ,29,Data Orbital,550,44.7,38.8
+2020-10-23,SD,11,SurveyMonkey,928,46,39.43
+2020-10-30,WV,4,SurveyMonkey,805,45,38
+2020-10-21,AL,13,SurveyMonkey,2985,42,47
+2020-07-26,AZ,100,Morning Consult,908,42,42
+2020-08-26,WI,69,Morning Consult,797,40,42.91
+2020-10-11,PA,23,Morning Consult,2610,41,49
+2020-06-27,AZ,129,Gravis Marketing,527,53,47
+2020-10-28,NH,6,U. New Hampshire,864,40,42.2
+2020-08-31,ND,64,SurveyMonkey,269,45,42
+2020-11-01,IN,2,SurveyMonkey,2392,33.86,52
+2020-06-30,OR,126,SurveyMonkey,872,47,49.2
+2020-10-31,WI,3,Susquehanna,450,45.5,47.9
+2020-07-24,WI,102,Morning Consult,797,44,49
+2020-08-17,WI,78,Morning Consult,797,49,44
+2020-07-31,MT,95,SurveyMonkey,527,39,50
+2020-07-07,WI,119,Morning Consult,797,37,45
+2020-09-03,PA,61,Redfield & Wilton Strategies,1053,48,39.6
+2020-10-16,NE,18,SurveyMonkey,1339,48,50
+2020-10-14,DC,20,SurveyMonkey,612,49,41
+2020-10-29,NC,5,SurveyMonkey,5356,54,30
+2020-10-16,MA,18,SurveyMonkey,4325,40,50
+2020-07-16,WI,110,Morning Consult,797,39,46
+2020-11-02,OR,1,SurveyMonkey,3543,41,42
+2020-09-20,FL,44,Change Research,702,42,45
+2020-10-12,NH,22,SurveyMonkey,1004,33.57,45
+2020-10-20,MI,14,Morning Consult,1717,53,33
+2020-09-20,NC,44,Change Research,579,43,50.4
+2020-10-18,TN,16,SurveyMonkey,3973,56,34.9
+2020-10-16,IL,18,SurveyMonkey,7441,48,34.67
+2020-10-27,AK,7,SurveyMonkey,1131,45,31
+2020-10-29,OH,5,SurveyMonkey,5092,44,46
+2020-09-30,AZ,34,Suffolk,500,54,33
+2020-10-31,MI,3,AtlasIntel,686,47,36
+2020-07-21,FL,105,Redfield & Wilton Strategies,1121,38.36,46.09
+2020-08-24,PA,71,Greenberg Quinlan Rosner,500,49.2,10
+2020-10-15,HI,19,SurveyMonkey,896,45,41
+2020-10-19,IN,15,SurveyMonkey,4001,38,46
+2020-10-30,WY,4,SurveyMonkey,378,43.99,42
+2020-10-15,AK,19,SurveyMonkey,835,32.76,54
+2020-08-31,WI,64,Morning Consult,819,46,38
+2020-08-31,OK,64,SoonerPoll.com,379,50,47.78
+2020-10-14,TN,20,SurveyMonkey,3433,46,43.6
+2020-10-15,WV,19,SurveyMonkey,914,52,44
+2020-10-13,WI,21,Redfield & Wilton Strategies,691,43,43
+2020-10-20,MA,14,SurveyMonkey,4820,45,49
+2020-11-01,MT,2,SurveyMonkey,957,44.6,50.1
+2020-08-07,WI,88,YouGov,994,42,36
+2020-09-20,OK,44,Amber Integrated,500,56,44
+2020-07-16,OH,110,Pulse Opinion Research,750,51,43
+2020-10-28,DC,6,SurveyMonkey,969,53,35
+2020-10-12,ND,22,SurveyMonkey,376,42,47
+2020-08-18,AZ,77,Redfield & Wilton Strategies,856,50,38
+2020-09-30,TX,34,SurveyMonkey,13395,39,47.6
+2020-10-31,MI,3,Morning Consult,1736,53,36.6
+2020-10-18,SC,16,SurveyMonkey,3666,49,42
+2020-11-02,OR,1,SurveyMonkey,3543,54.6,33
+2020-10-19,IA,15,SurveyMonkey,2539,43.2,28
+2020-10-29,NC,5,Redfield & Wilton Strategies,1489,52,43
+2020-10-21,WV,13,SurveyMonkey,1154,56,44
+2020-11-01,AZ,2,Data for Progress,1195,50,39
+2020-10-15,GA,19,SurveyMonkey,5376,49,44
+2020-10-15,RI,19,SurveyMonkey,580,42,53
+2020-10-05,PA,29,Emerson College Polling Society,688,57,39
+2020-10-03,AZ,31,Siena College/NYT Upshot,655,48.8,45
+2020-10-14,FL,20,Ipsos,653,55,37
+2020-09-08,OR,56,"Davis, Hibbitts, & Midghall, Inc.",502,34.89,57
+2020-10-20,MI,14,Ipsos,686,44,43
+2020-10-27,KY,7,SurveyMonkey,3478,58,29
+2020-08-09,MA,86,MassINC Polling Group,501,47.1,29.08
+2020-09-21,NV,43,Anzalone Liszt Grove,800,42,45
+2020-09-30,ME,34,SurveyMonkey,729,48,49
+2020-10-14,DE,20,SurveyMonkey,848,50,44.3
+2020-11-01,NE,2,SurveyMonkey,1666,39,56
+2020-10-19,OH,15,Rasmussen (Pulse Opinion Research),800,53,44
+2020-11-01,DE,2,SurveyMonkey,588,43.2,9
+2020-10-15,NY,19,SurveyMonkey,9675,33,50
+2020-10-25,MI,9,ABC/Washington Post,789,48,47
+2020-10-19,WI,15,Ipsos,663,50,45
+2020-07-23,AZ,103,Redfield & Wilton Strategies,858,37.73,36
+2020-10-30,DC,4,SurveyMonkey,483,38,33.4
+2020-09-20,WI,44,Change Research,571,38,38
+2020-08-31,MD,64,SurveyMonkey,1813,56,42
+2020-06-28,FL,128,Change Research,951,48,49
+2020-09-11,NC,53,Trafalgar Group,1046,40,48
+2020-09-25,NH,39,U. Massachusetts - Lowell,657,45,42
+2020-09-07,AZ,57,Morning Consult,901,45,36
+2020-10-30,WI,4,SurveyMonkey,2509,44,39
+2020-07-24,MI,102,Redfield & Wilton Strategies,811,50.28,32
+2020-10-05,FL,29,Quinnipiac,1256,51,40
+2020-10-12,MS,22,SurveyMonkey,1063,42.16,44
+2020-10-15,CO,19,RMG Research,800,50.3,43
+2020-10-12,WA,22,SurveyUSA,591,63,24.130000000000003
+2020-10-25,ID,9,SurveyMonkey,1679,43,49
+2020-10-07,MT,27,Emerson College Polling Society,500,48,40
+2020-11-02,CO,1,SurveyMonkey,2991,40,47
+2020-09-15,VT,49,Braun,586,40,42.6
+2020-11-02,CT,1,SurveyMonkey,2031,47,41
+2020-10-30,UT,4,SurveyMonkey,1511,49,46
+2020-06-18,WI,138,Marquette Law School,686,35,49
+2020-10-04,FL,30,Suffolk,500,52.69,43
+2020-11-01,NV,2,SurveyMonkey,2211,41,49
+2020-10-19,PA,15,Quinnipiac,1241,49,48.36
+2020-10-16,MO,18,SurveyMonkey,3702,48.14,35
+2020-10-23,AZ,11,SurveyMonkey,5626,51,43
+2020-08-16,FL,79,Morning Consult,3484,47,39
+2020-10-20,TX,14,Morning Consult,3347,45,38.4
+2020-10-19,MA,15,SurveyMonkey,4600,50,47
+2020-11-01,NJ,2,Research Co.,450,67,26
+2020-11-01,IA,2,Change Research,1084,48,42
+2020-06-30,WI,126,Morning Consult,797,47,37
+2020-10-16,DE,18,SurveyMonkey,952,52,34
+2020-10-20,CA,14,SurveyMonkey,22989,44,46
+2020-09-22,PA,42,Baldwin Wallace University/Oakland University/Ohio Northern University,1012,51.74,46
+2020-10-16,CO,18,SurveyMonkey,4955,49,42
+2020-10-22,OK,12,SurveyMonkey,2670,49,45
+2020-10-18,KS,16,SurveyMonkey,2581,35.9,49
+2020-10-06,WV,28,Research America Inc.,450,53,34
+2020-08-03,IA,92,Monmouth U.,401,40,29
+2020-10-29,CO,5,SurveyMonkey,2974,57,39.7
+2020-10-28,AK,6,SurveyMonkey,1147,52,34.5
+2020-07-31,MS,95,SurveyMonkey,733,46.1,50.6
+2020-09-02,MI,62,Opinion Insight,800,33,44
+2020-07-16,GA,110,Spry Strategies,701,49,43
+2020-10-31,AZ,3,Morning Consult,1059,56,44
+2020-10-20,UT,14,SurveyMonkey,2279,50,44.29
+2020-10-07,WI,27,Redfield & Wilton Strategies,688,52,37
+2020-09-11,AZ,53,YouGov,1106,47.2,52
+2020-10-13,DE,21,SurveyMonkey,776,62,35
+2020-10-19,ND,15,SurveyMonkey,511,49,33
+2020-08-10,AZ,85,Emerson College Polling Society,661,48,42
+2020-10-18,OR,16,SurveyMonkey,3754,49,35
+2020-09-16,AZ,48,Redfield & Wilton Strategies,855,63.18000000000001,34
+2020-10-30,FL,4,RMG Research,1200,37.67,42
+2020-10-19,AK,15,SurveyMonkey,1001,53,43
+2020-10-11,OH,23,Civiqs,586,45,52
+2020-10-24,MI,10,Gravis Marketing,679,48,36
+2020-09-25,NC,39,U. Massachusetts - Lowell,921,44,40
+2020-10-20,OK,14,SurveyMonkey,2380,44,50
+2020-10-22,OR,12,SurveyMonkey,4716,37,53
+2020-10-25,MI,9,SurveyMonkey,7094,47.8,50
+2020-10-29,MI,5,RMG Research,800,37,51.58
+2020-10-16,VA,18,SurveyMonkey,5529,37,57
+2020-10-29,FL,5,AtlasIntel,786,45,41
+2020-10-23,MT,11,SurveyMonkey,1210,48,48
+2020-11-02,TX,1,SurveyMonkey,9226,55,40
+2020-10-31,TN,3,SurveyMonkey,3030,54,41
+2020-10-28,AR,6,SurveyMonkey,2239,47,49
+2020-10-14,AZ,20,SurveyMonkey,5657,37,51.4
+2020-07-02,PA,124,Trafalgar Group,1062,56,44
+2020-10-31,MT,3,SurveyMonkey,1031,50,45
+2020-10-21,LA,13,SurveyMonkey,2547,41,42
+2020-10-16,FL,18,SurveyMonkey,14081,50,47.6
+2020-10-27,SC,7,Data for Progress,1196,49,46
+2020-10-22,MI,12,SurveyMonkey,6767,58,32
+2020-10-29,KS,5,SurveyMonkey,2569,47,44
+2020-10-11,WI,23,Civiqs,560,38,47.8
+2020-10-27,GA,7,SurveyMonkey,6720,56,35
+2020-10-20,MT,14,SurveyMonkey,1044,44,44
+2020-11-02,MT,1,Change Research,920,45.45,41
+2020-10-30,FL,4,RMG Research,1200,46.15,42
+2020-09-22,TX,42,Siena College/NYT Upshot,653,45,33
+2020-10-13,NV,21,SurveyMonkey,1958,45.52,51.4
+2020-09-30,TX,34,SurveyMonkey,13395,41,43
+2020-10-29,PA,5,HarrisX,901,41,59
+2020-08-30,WI,65,Morning Consult,811,51,36
+2020-11-01,CT,2,SurveyMonkey,1867,48,49
+2020-10-11,PA,23,Morning Consult,2610,39,33
+2020-10-17,NJ,17,SurveyMonkey,4902,48,48.1
+2020-10-15,MI,19,SurveyMonkey,5448,43,43
+2020-10-06,NC,28,Redfield & Wilton Strategies,938,42,48.23
+2020-07-12,WI,114,Change Research,601,51,45.5
+2020-09-03,NC,61,Redfield & Wilton Strategies,951,51,44
+2020-10-12,DC,22,SurveyMonkey,543,44.1,48
+2020-10-25,PA,9,Franklin and Marshall College,558,40,48.5
+2020-10-22,PA,12,SurveyMonkey,9615,47,35.4
+2020-09-14,SC,50,Quinnipiac,969,46.1,36
+2020-10-12,PA,22,SurveyMonkey,6613,45,36
+2020-07-22,WI,104,Morning Consult,797,54,44
+2020-10-20,DE,14,SurveyMonkey,1075,41,44
+2020-10-29,FL,5,AtlasIntel,786,48,36.1
+2020-10-31,SC,3,Morning Consult,904,50.9,49
+2020-10-15,MO,19,Remington,1010,32.64,50
+2020-11-02,NV,1,SurveyMonkey,2366,48,51
+2020-10-27,GA,7,SurveyMonkey,6720,53,40
+2020-10-24,ID,10,SurveyMonkey,1669,50,43
+2020-07-31,NJ,95,SurveyMonkey,2426,46,45
+2020-08-09,AZ,86,Change Research,428,39,52
+2020-07-31,NV,95,SurveyMonkey,1021,41,48
+2020-10-27,AZ,7,SurveyMonkey,5609,36,54
+2020-09-30,CA,34,SurveyMonkey,20346,33,50
+2020-10-28,VA,6,SurveyMonkey,7663,49.41,46
+2020-09-20,ME,44,Suffolk,500,47.53,32
+2020-09-21,CA,43,Redfield & Wilton Strategies,1885,53,32
+2020-10-14,CO,20,SurveyMonkey,4345,40,46
+2020-10-04,WI,30,Marquette Law School,700,53,44
+2020-10-25,KS,9,SurveyMonkey,3143,48,38
+2020-09-01,AZ,63,Beacon Research/Shaw & Company,772,51,43
+2020-10-25,OK,9,SurveyMonkey,2790,53,44
+2020-10-12,OR,22,SurveyMonkey,2902,40,46.2
+2020-10-16,VA,18,SurveyMonkey,5529,39,30
+2020-10-19,MN,15,SurveyMonkey,4696,54,45
+2020-06-07,WI,149,Morning Consult,797,52.27,42
+2020-08-31,NV,64,SurveyMonkey,998,41.6,47
+2020-10-13,ID,21,SurveyMonkey,1190,42,43.6
+2020-10-22,WA,12,SurveyMonkey,7493,51,29
+2020-10-27,OH,7,SurveyMonkey,7825,40.8,53
+2020-10-26,PA,8,Ipsos,655,45,54
+2020-09-30,WA,34,SurveyMonkey,7953,42.4,40
+2020-06-09,WI,147,Morning Consult,797,46,46
+2020-10-27,FL,7,Ipsos,704,42,43
+2020-10-31,SD,3,SurveyMonkey,597,43,45
+2020-10-14,AK,20,Siena College/NYT Upshot,423,53,47
+2020-09-05,GA,59,Fabrizio Ward/Hart Research Associates,800,43,54
+2020-10-31,SC,3,Morning Consult,904,53.25,39
+2020-09-13,WI,51,Morning Consult,774,51,45
+2020-06-28,WI,128,Morning Consult,797,34,28
+2020-10-19,WI,15,SurveyMonkey,4511,51,43
+2020-09-30,DE,34,SurveyMonkey,395,52,43
+2020-10-27,WA,7,SurveyMonkey,7406,38.2,44
+2020-10-12,NH,22,Suffolk,500,44,52
+2020-11-02,WV,1,SurveyMonkey,816,47,45
+2020-09-16,PA,48,Ipsos,611,47,47
+2020-10-13,AK,21,SurveyMonkey,776,49,36
+2020-10-22,ME,12,SurveyMonkey,1709,45,46
+2020-09-25,VA,39,Cygnal Political,600,40,49
+2020-10-29,NC,5,Redfield & Wilton Strategies,1489,47,36
+2020-06-18,MI,138,Trafalgar Group,1101,44.7,45
+2020-07-31,NC,95,YouGov,1129,48.6,43.63
+2020-09-13,MN,51,Morning Consult,643,49,45
+2020-10-21,RI,13,SurveyMonkey,760,33.65,46.4
+2020-06-30,MO,126,SurveyMonkey,868,47,44
+2020-11-01,AL,2,SurveyMonkey,1608,43,39
+2020-10-14,RI,20,SurveyMonkey,537,49,43
+2020-11-02,IA,1,SurveyMonkey,1489,38.27,53
+2020-06-25,WI,131,Morning Consult,797,52,35.3
+2020-10-17,NJ,17,SurveyMonkey,4902,48,46
+2020-10-13,MO,21,SurveyMonkey,3136,48,51
+2020-10-12,PA,22,RMG Research,800,60,33
+2020-10-19,AZ,15,SurveyMonkey,5945,46,45
+2020-10-13,KS,21,SurveyMonkey,1717,55,32
+2020-09-08,WI,56,Benenson Strategy Group/GS Strategy Group,1200,67,31.77
+2020-09-06,PA,58,TargetSmart,835,49.2,31
+2020-10-26,AL,8,Swayable,266,49,35
+2020-10-12,SD,22,SurveyMonkey,547,31,57.69
+2020-10-19,WI,15,SurveyMonkey,4511,50.14,45
+2020-10-28,AZ,6,Gravis Marketing,704,44,45
+2020-10-20,MI,14,Morning Consult,1717,41,47
+2020-09-22,IA,42,Siena College/NYT Upshot,501,54,29
+2020-10-11,NV,23,WPA Intelligence,512,45,49
+2020-10-21,NE,13,SurveyMonkey,1630,52,34
+2020-10-13,AK,21,SurveyMonkey,776,40.5,46
+2020-10-22,VA,12,Virginia Commonwealth U.,709,45,51
+2020-10-16,MS,18,SurveyMonkey,1359,44,47
+2020-10-29,PA,5,Redfield & Wilton Strategies,2125,41,54
+2020-10-02,PA,32,Siena College/NYT Upshot,706,55,30
+2020-09-25,NC,39,U. Massachusetts - Lowell,921,63.54,29
+2020-09-30,PA,34,SurveyMonkey,4613,39,46
+2020-11-02,MD,1,SurveyMonkey,3216,55,38
+2020-10-27,AL,7,SurveyMonkey,3255,55,33
+2020-07-16,MT,110,Spry Strategies,701,43,41.2
+2020-10-31,MI,3,Morning Consult,1736,37,49
+2020-10-19,OK,15,SurveyMonkey,2289,40,51
+2020-11-01,NE,2,SurveyMonkey,1666,52,46
+2020-10-30,KY,4,SurveyMonkey,1982,54,41
+2020-11-02,AR,1,SurveyMonkey,1309,49,38
+2020-08-04,WI,91,OnMessage Inc.,400,44,34.05
+2020-10-19,WI,15,Latino Decisions,400,41,55
+2020-10-25,OR,9,SurveyMonkey,4932,51,32.08
+2020-11-02,SC,1,Øptimus,817,55,38
+2020-10-14,WI,20,SurveyMonkey,4425,50,41
+2020-10-12,NC,22,SurveyMonkey,4912,48,52
+2020-06-30,FL,126,SurveyMonkey,5663,45,52.53
+2020-10-13,NJ,21,DKC Analytics,500,62,31
+2020-10-19,NC,15,SurveyMonkey,6483,52,30.56
+2020-09-30,PA,34,SurveyMonkey,4613,46.93,39.2
+2020-06-30,DC,126,SurveyMonkey,151,47,49
+2020-09-20,WI,44,Change Research,571,53,43
+2020-10-31,FL,3,SurveyMonkey,7807,50,39.55
+2020-09-06,FL,58,Marist,766,31,58
+2020-10-30,MI,4,Targoz Market Research,993,49,34
+2020-10-22,RI,12,SurveyMonkey,786,47,47
+2020-10-19,SC,15,SurveyMonkey,3810,47,51
+2020-10-13,KS,21,SurveyMonkey,1717,53,40
+2020-09-25,WI,39,Trafalgar Group,1189,51,31
+2020-11-01,NM,2,SurveyMonkey,1375,40,43.03
+2020-10-27,ME,7,SurveyMonkey,1916,49,38
+2020-10-14,MI,20,SurveyMonkey,5093,44.06,46
+2020-10-15,DC,19,SurveyMonkey,674,34,45.4
+2020-08-19,AL,76,The Tyson Group,600,48,44
+2020-07-19,VA,107,Virginia Commonwealth U.,725,37,46
+2020-10-17,IN,17,SurveyMonkey,3857,42,52.28
+2020-10-14,CT,20,SurveyMonkey,2453,51,42
+2020-10-13,AL,21,SurveyMonkey,2149,57,39
+2020-10-04,NC,30,East Carolina University,1232,50,38
+2020-09-23,MI,41,Marist,799,49,29
+2020-10-27,MD,7,SurveyMonkey,5665,44,44
+2020-09-30,AZ,34,SurveyMonkey,7100,50,35
+2020-10-25,CT,9,SurveyMonkey,3490,46.23,49
+2020-11-01,MS,2,Data for Progress,562,56,37
+2020-10-19,VT,15,SurveyMonkey,785,44,48
+2020-06-22,NH,134,U. New Hampshire,936,45.4,36.85
+2020-10-31,AZ,3,SurveyMonkey,3933,57,43
+2020-07-31,NJ,95,SurveyMonkey,2426,41,47
+2020-10-23,MO,11,SurveyMonkey,4274,53,43
+2020-10-31,OK,3,SurveyMonkey,1880,71,24
+2020-09-13,WI,51,SSRS,816,43,39.19
+2020-10-17,CA,17,SurveyMonkey,22834,53,47
+2020-10-13,AZ,21,SurveyMonkey,5690,42,41
+2020-10-25,ME,9,SurveyMonkey,1749,35,46.69
+2020-10-17,PA,17,SurveyMonkey,8360,41.29,41
+2020-10-11,MI,23,Siena College/NYT Upshot,614,53,43
+2020-10-23,VT,11,SurveyMonkey,969,49,48
+2020-09-07,FL,57,Morning Consult,3914,44,49.92
+2020-10-21,MA,13,SurveyMonkey,5030,41,47.02
+2020-10-17,WV,17,SurveyMonkey,1002,51,46
+2020-11-01,PA,2,Rasmussen (Pulse Opinion Research),800,59,40
+2020-09-16,AZ,48,Redfield & Wilton Strategies,855,47,49.5
+2020-10-23,SC,11,SurveyMonkey,4313,51,45
+2020-10-19,GA,15,Emerson College Polling Society,506,36,43
+2020-10-25,VA,9,SurveyMonkey,6849,43.5,51
+2020-09-22,WI,42,Baldwin Wallace University/Oakland University/Ohio Northern University,863,57,42
+2020-10-17,FL,17,SurveyMonkey,14126,54,31
+2020-07-20,TX,106,Spry Strategies,750,40,38
+2020-06-02,WI,154,Morning Consult,797,49,44
+2020-08-16,FL,79,Morning Consult,3484,34,49
+2020-09-30,VA,34,SurveyMonkey,2882,43,52
+2020-10-19,SC,15,SurveyMonkey,3810,41,58
+2020-10-17,AK,17,SurveyMonkey,941,47,44
+2020-10-21,CT,13,SurveyMonkey,3224,50,44
+2020-08-27,MA,68,Emerson College Polling Society,763,50.5,47
+2020-10-21,ND,13,SurveyMonkey,535,53,39
+2020-10-27,WV,7,SurveyMonkey,1315,62,33
+2020-10-31,MI,3,SurveyMonkey,4202,48,48.2
+2020-10-23,DC,11,SurveyMonkey,888,36,51.9
+2020-08-09,NC,86,Change Research,491,48.1,45
+2020-06-02,WI,154,Morning Consult,797,54,34
+2020-10-14,LA,20,SurveyMonkey,2325,53,43
+2020-10-20,NV,14,SurveyMonkey,2671,54,39
+2020-07-23,AZ,103,Redfield & Wilton Strategies,858,41,41
+2020-06-30,MT,126,SurveyMonkey,166,48,35
+2020-09-07,NJ,57,Emerson College Polling Society,500,52,44.6
+2020-10-20,OH,14,Beacon Research/Shaw & Company,1018,50,43
+2020-10-16,AK,18,SurveyMonkey,898,49,44
+2020-10-16,WI,18,SurveyMonkey,4565,44,44
+2020-09-21,CA,43,Redfield & Wilton Strategies,1885,45,44.4
+2020-09-22,MI,42,Trafalgar Group,1015,60,35
+2020-10-23,MT,11,SurveyMonkey,1210,52,46
+2020-09-26,IL,38,Victory Research,1208,43,37
+2020-10-21,SC,13,SurveyMonkey,4109,32,43
+2020-10-05,WI,29,Ipsos,601,53.45,46
+2020-10-12,KY,22,SurveyMonkey,2109,50.15,48.4
+2020-10-19,WA,15,SurveyMonkey,7652,58,41
+2020-10-12,NV,22,SurveyMonkey,1915,41,43
+2020-10-16,MS,18,SurveyMonkey,1359,45,44
+2020-10-05,AZ,29,HighGround,400,45,41
+2020-08-17,WI,78,Morning Consult,797,55,30
+2020-10-21,NH,13,SurveyMonkey,1508,40,43
+2020-10-18,MN,16,SurveyMonkey,4544,52.5,44
+2020-10-25,NJ,9,SurveyMonkey,6048,45,46.5
+2020-07-26,FL,100,Morning Consult,3760,49,46
+2020-08-02,ME,93,Data for Progress,866,49,46.7
+2020-11-02,AL,1,SurveyMonkey,1808,44,44
+2020-10-26,CA,8,Swayable,635,51,39
+2020-07-15,GA,111,Garin Hart Yang,800,51,44
+2020-06-30,OH,126,SurveyMonkey,1610,43,42.1
+2020-10-17,NV,17,SurveyMonkey,2443,40,51
+2020-10-21,KY,13,SurveyMonkey,3136,53.1,45
+2020-10-26,AZ,8,Swayable,304,45,47
+2020-10-23,IA,11,SurveyMonkey,2738,49,48.4
+2020-10-13,GA,21,SurveyMonkey,4716,59,31
+2020-10-20,NV,14,SurveyMonkey,2671,47,46
+2020-10-20,NV,14,Civiqs,712,40.54,48
+2020-10-21,GA,13,Landmark Communications,500,34.7,44
+2020-10-17,WI,17,SurveyMonkey,4571,43,44
+2020-10-30,OH,4,AtlasIntel,660,47,49
+2020-10-29,IA,5,SurveyMonkey,1500,44,49.2
+2020-10-29,NM,5,SurveyMonkey,1548,50,47
+2020-10-18,MT,16,RMG Research,800,53,38
+2020-10-30,DE,4,SurveyMonkey,668,53,36
+2020-10-30,NH,4,SurveyMonkey,973,44,43
+2020-10-02,PA,32,Siena College/NYT Upshot,706,46.4,46
+2020-10-14,VT,20,SurveyMonkey,610,36,38.61
+2020-10-13,ND,21,SurveyMonkey,386,55.32,33
+2020-10-26,AL,8,Swayable,266,44,38.15
+2020-10-16,NY,18,SurveyMonkey,9878,38,49
+2020-09-27,SC,37,Quinnipiac,1123,47,44
+2020-10-14,HI,20,SurveyMonkey,829,49,10
+2020-08-31,AK,64,SurveyMonkey,472,45.9,50.5
+2020-10-20,OK,14,SurveyMonkey,2380,44,45
+2020-10-28,OH,6,Wick,1000,39,46
+2020-10-21,PA,13,SurveyMonkey,9301,40,48.5
+2020-10-11,NC,23,SurveyUSA,669,44,47
+2020-09-30,AZ,34,SurveyMonkey,7100,48,46
+2020-10-23,OR,11,SurveyMonkey,4803,39,37
+2020-11-01,MI,2,Change Research,383,39,49
+2020-10-29,NV,5,Trafalgar Group,1024,62,32
+2020-10-23,DC,11,SurveyMonkey,888,38,48
+2020-10-17,SD,17,SurveyMonkey,773,45.6,41.4
+2020-08-02,WI,93,Morning Consult,797,49,46
+2020-09-20,PA,44,Change Research,579,36.8,50
+2020-10-30,RI,4,SurveyMonkey,547,52,43
+2020-10-22,NJ,12,SurveyMonkey,5811,47,43
+2020-10-20,TX,14,YouGov,1000,56.21,42
+2020-06-12,WI,144,Morning Consult,797,48,37.16
+2020-10-13,NC,21,SurveyMonkey,5112,47,41
+2020-06-30,UT,126,SurveyMonkey,412,44.5,41
+2020-09-14,PA,50,Redfield & Wilton Strategies,1036,45,36
+2020-10-13,IA,21,David Binder Research,200,44.48,49
+2020-10-06,NC,28,Ipsos,601,46,48
+2020-10-06,OH,28,Siena College/NYT Upshot,661,52,37
+2020-08-09,WI,86,Marquette Law School,694,43,45
+2020-10-18,NH,16,SurveyMonkey,1364,45,32
+2020-11-01,ID,2,SurveyMonkey,824,52,45.94
+2020-10-19,TN,15,SurveyMonkey,4150,39,38
+2020-09-25,SC,39,YouGov,1080,39,52
+2020-09-23,OH,41,Beacon Research/Shaw & Company,830,53.5,32
+2020-10-13,RI,21,SurveyMonkey,514,50,33
+2020-08-27,MT,68,Expedition Strategies,400,36,50
+2020-11-01,MD,2,Swayable,503,47,41
+2020-10-13,KS,21,SurveyMonkey,1717,49,49
+2020-08-09,ME,86,Critical Insights,453,45,44
+2020-07-31,TX,95,SurveyMonkey,13721,39,9
+2020-11-01,MO,2,SurveyMonkey,2644,51,37
+2020-10-12,MS,22,SurveyMonkey,1063,50,43
+2020-09-23,MN,41,Mason-Dixon,800,50,33
+2020-10-24,MA,10,SurveyMonkey,5248,39,40
+2020-10-14,NM,20,SurveyMonkey,1701,48,40
+2020-10-14,WY,20,SurveyMonkey,450,44,42
+2020-11-01,WV,2,SurveyMonkey,738,49.2,46
+2020-08-31,WI,64,SurveyMonkey,1913,63,32
+2020-10-25,TN,9,SurveyMonkey,4696,54,34
+2020-06-30,ND,126,SurveyMonkey,88,49,39
+2020-10-13,PA,21,Redfield & Wilton Strategies,1289,45.09,43.45
+2020-10-27,ME,7,SurveyUSA,1007,41,47
+2020-10-19,SC,15,SurveyMonkey,3810,43,44
+2020-10-20,FL,14,Morning Consult,4685,56,33
+2020-10-27,MD,7,SurveyMonkey,5665,53,42
+2020-08-31,AZ,64,Basswood Research,800,38,50
+2020-08-09,WI,86,Marquette Law School,694,61,37
+2020-10-13,NJ,21,DKC Analytics,500,48.4,49
+2020-10-16,CT,18,SurveyMonkey,2862,47,43.2
+2020-09-30,IL,34,SurveyMonkey,8392,52,38.67
+2020-08-16,GA,79,Morning Consult,1265,54,39
+2020-08-19,AL,76,The Tyson Group,600,51,33.33
+2020-10-31,MT,3,SurveyMonkey,1031,49.22,48.9
+2020-09-07,PA,57,Marist,771,40,44.9
+2020-10-21,AR,13,SurveyMonkey,1887,50,42.4
+2020-10-29,PA,5,ABC/Washington Post,810,40,43
+2020-07-31,MI,95,David Binder Research,200,41,43
+2020-10-21,NH,13,SurveyMonkey,1508,64,21
+2020-10-14,IA,20,SurveyMonkey,2138,48,51
+2020-10-22,WY,12,SurveyMonkey,616,50,40
+2020-10-22,CO,12,SurveyMonkey,5598,41,45.64
+2020-09-30,TX,34,SurveyMonkey,13395,46.9,44
+2020-11-01,NC,2,Ipsos,707,63,19.9
+2020-10-21,OK,13,SurveyMonkey,2471,52,32
+2020-10-15,NH,19,SurveyMonkey,1214,47,38
+2020-10-22,OK,12,SurveyMonkey,2670,51,46
+2020-10-21,IL,13,SurveyMonkey,7554,60,35
+2020-10-19,NV,15,SurveyMonkey,2549,42,45.99
+2020-06-07,WI,149,Morning Consult,797,51,38
+2020-06-07,MI,149,Kiaer Research,543,50,35
+2020-10-22,AK,12,SurveyMonkey,989,38,61
+2020-10-20,KS,14,Siena College/NYT Upshot,755,52.85,33.48
+2020-10-25,TN,9,SurveyMonkey,4696,40,44
+2020-10-12,NH,22,SurveyMonkey,1004,50,45
+2020-10-31,VA,3,SurveyMonkey,4390,50,44
+2020-08-26,FL,69,Opinium,684,45.9,47
+2020-10-17,CA,17,SurveyMonkey,22834,45,48.3
+2020-08-04,AZ,91,OnMessage Inc.,400,52.21,42.3
+2020-10-28,TX,6,SurveyMonkey,15145,46,38
+2020-06-14,MI,142,Change Research,353,47,49
+2020-09-03,FL,61,Redfield & Wilton Strategies,1093,51,39.2
+2020-11-01,VA,2,Data for Progress,690,52.98,38
+2020-07-21,FL,105,Redfield & Wilton Strategies,1121,48,43.05
+2020-10-24,GA,10,SurveyMonkey,6530,52,42
+2020-10-24,ID,10,SurveyMonkey,1669,56,27
+2020-10-19,GA,15,SurveyMonkey,5979,42.5,42
+2020-10-13,TX,21,SurveyMonkey,13081,52.63,36
+2020-10-18,NC,16,East Carolina University,1155,46,49.48
+2020-10-23,AZ,11,SurveyMonkey,5626,45.1,45
+2020-10-20,KS,14,Siena College/NYT Upshot,755,55,45
+2020-10-23,OH,11,SurveyMonkey,7411,45,33
+2020-08-31,CT,64,SurveyMonkey,1009,44,43.16
+2020-10-31,TX,3,SurveyMonkey,8692,53,38
+2020-10-13,OK,21,SurveyMonkey,1804,49,43
+2020-09-07,VA,57,Virginia Commonwealth U.,693,49,43
+2020-08-30,MN,65,Morning Consult,647,62,36
+2020-11-01,OH,2,Research Co.,450,40,32
+2020-10-31,NE,3,SurveyMonkey,1751,39,45
+2020-10-19,MO,15,SurveyMonkey,3955,40,36
+2020-10-11,SC,23,Data for Progress,801,42,52
+2020-10-21,SD,13,Mason-Dixon,625,40,47
+2020-10-25,AZ,9,OH Predictive Insights / MBQF,716,40,33
+2020-10-18,OR,16,SurveyMonkey,3754,53.52,34
+2020-10-21,TN,13,SurveyMonkey,4469,49,28
+2020-07-16,GA,110,Spry Strategies,701,45.2,50
+2020-09-25,GA,39,YouGov,1164,49,42
+2020-10-19,KS,15,SurveyMonkey,2718,47,44
+2020-09-25,NC,39,U. Massachusetts - Lowell,921,39,44.78
+2020-09-13,WI,51,Morning Consult,774,51,28
+2020-10-24,VA,10,SurveyMonkey,6811,59,38.4
+2020-09-16,WI,48,Ipsos,609,58,32
+2020-10-14,NY,20,SurveyMonkey,9500,49,41
+2020-07-16,NC,110,Spry Strategies,700,47,50.49
+2020-11-02,NC,1,SurveyMonkey,5363,49,42
+2020-10-29,TX,5,SurveyMonkey,8648,50,43
+2020-08-04,AZ,91,OH Predictive Insights / MBQF,603,36,54
+2020-10-13,AR,21,Hendrix College,647,59,41
+2020-10-12,FL,22,St. Pete Polls,2215,39,37
+2020-10-30,OK,4,SurveyMonkey,1865,50,48.4
+2020-07-19,VA,107,Virginia Commonwealth U.,725,39,45
+2020-07-26,AZ,100,Change Research,365,57,33
+2020-10-30,FL,4,RMG Research,1200,40,45
+2020-11-01,MI,2,SurveyMonkey,3976,31.57,56
+2020-09-07,NJ,57,Emerson College Polling Society,500,54,35
+2020-10-30,VT,4,SurveyMonkey,734,46,46
+2020-06-20,MI,136,Hodas & Associates,600,48,43
+2020-10-11,MI,23,Civiqs,543,42,45
+2020-06-18,WI,138,Morning Consult,797,46.6,42
+2020-10-21,NV,13,SurveyMonkey,2746,47,36
+2020-09-08,OK,56,SoonerPoll.com,486,46,44
+2020-10-28,TX,6,Gravis Marketing,670,39.97,59
+2020-10-28,RI,6,SurveyMonkey,910,53,38
+2020-08-16,FL,79,Redfield & Wilton Strategies,1280,78,22
+2020-10-31,PA,3,Frederick Polls LLC,879,49.89,33
+2020-10-14,PA,20,SurveyMonkey,7258,33,53
+2020-10-20,TX,14,Morning Consult,3347,44,53
+2020-09-18,TX,46,YouGov,1140,39.2,48
+2020-10-30,MI,4,SSRS,907,44,47
+2020-10-28,MI,6,SurveyMonkey,7541,47,48
+2020-07-21,FL,105,Redfield & Wilton Strategies,1121,49,48.6
+2020-10-14,WV,20,SurveyMonkey,857,46,38
+2020-10-18,SC,16,SurveyMonkey,3666,52,43
+2020-10-12,MI,22,SurveyMonkey,4656,48.55,45
+2020-07-26,FL,100,Morning Consult,3760,40,49
+2020-10-28,AK,6,Gravis Marketing,770,52,45
+2020-10-19,NC,15,SurveyMonkey,6483,44,40
+2020-06-04,OK,152,Amber Integrated,500,45,45
+2020-10-29,PA,5,Redfield & Wilton Strategies,2125,49.5,45
+2020-08-26,FL,69,Opinium,684,60,39.56
+2020-10-03,AZ,31,Siena College/NYT Upshot,655,44,46
+2020-09-08,WI,56,Emerson College Polling Society,823,51,38.6
+2020-10-26,PA,8,Swayable,491,53,32
+2020-09-12,WI,52,Morning Consult,769,56,32
+2020-11-01,NJ,2,SurveyMonkey,3480,32,57
+2020-10-26,VA,8,Swayable,351,63,25.799999999999997
+2020-07-31,NY,95,SurveyMonkey,10280,38,51.79
+2020-06-12,MI,144,TIPP,859,48,47.5
+2020-10-30,LA,4,SurveyMonkey,1526,45,54
+2020-09-28,NH,36,U. New Hampshire,972,42.5,43
+2020-09-26,IL,38,Victory Research,1208,59,39
+2020-07-23,FL,103,Zogby,811,44,39
+2020-10-25,KY,9,SurveyMonkey,3381,48.4,47
+2020-10-24,AZ,10,SurveyMonkey,5571,53,43
+2020-09-16,AZ,48,Ipsos,565,48,39
+2020-10-11,NC,23,Susquehanna,500,51,36
+2020-10-17,OK,17,SurveyMonkey,2144,51,46
+2020-09-30,NV,34,SurveyMonkey,1239,32,47
+2020-10-25,MN,9,Trafalgar Group,1065,62,37.6
+2020-10-21,OK,13,SurveyMonkey,2471,44,35
+2020-10-24,VA,10,SurveyMonkey,6811,53,34
+2020-07-31,WI,95,David Binder Research,200,39,52
+2020-10-13,CO,21,Keating Research/OnSight Public Affairs/Melanson,519,45,28
+2020-09-23,ME,41,Colby College,847,50,44.3
+2020-10-22,AK,12,SurveyMonkey,989,45,38.5
+2020-08-31,RI,64,SurveyMonkey,208,37,36
+2020-10-30,CA,4,SurveyMonkey,10929,53,42
+2020-10-22,MT,12,SurveyMonkey,1170,45.8,9
+2020-09-30,IA,34,SurveyMonkey,1276,53,44
+2020-09-20,PA,44,Franklin and Marshall College,480,48,46
+2020-10-24,NM,10,SurveyMonkey,2545,61,26
+2020-10-04,TX,30,YouGov,908,52,34
+2020-09-30,MT,34,SurveyMonkey,480,31,50
+2020-10-15,HI,19,SurveyMonkey,896,43,44.5
+2020-08-05,WI,90,Morning Consult,797,39,44
+2020-11-02,AZ,1,Ipsos,610,51.14,32
+2020-09-24,MN,40,Suffolk,500,40,40.6
+2020-10-26,TX,8,U. Massachusetts - Lowell,873,40,47
+2020-10-30,FL,4,Emerson College Polling Society,849,47,47.1
+2020-08-16,FL,79,The Political Matrix/The Listener Group,1000,53,45
+2020-10-25,OR,9,SurveyMonkey,4932,42.6,44
+2020-07-26,OH,100,Morning Consult,1741,48,31
+2020-10-19,NH,15,SurveyMonkey,1410,45,52
+2020-10-30,MN,4,SurveyMonkey,2919,72,23
+2020-10-14,CO,20,Civiqs,1013,54,33
+2020-09-22,FL,42,Data for Progress,620,47.4,43
+2020-06-30,WY,126,SurveyMonkey,98,51,44.74
+2020-10-24,AL,10,SurveyMonkey,3120,45,44
+2020-10-29,SC,5,SurveyMonkey,2501,46,38.9
+2020-10-29,NY,5,SurveyMonkey,5531,41,41
+2020-10-27,VA,7,Christopher Newport U.,908,42,43
+2020-10-23,OR,11,SurveyMonkey,4803,50,46
+2020-07-27,CA,99,UC Berkeley,6756,31,47
+2020-11-01,AL,2,SurveyMonkey,1608,47,29
+2020-08-18,MN,77,Trafalgar Group,1141,41.25,41
+2020-11-01,MI,2,Swayable,413,38,53
+2020-10-31,PA,3,Morning Consult,2686,44,32
+2020-09-01,PA,63,Anzalone Liszt Grove,500,39,45
+2020-10-23,OR,11,SurveyMonkey,4803,49,47
+2020-08-21,WI,74,Morning Consult,797,49,42
+2020-10-30,MI,4,Targoz Market Research,993,60,31
+2020-10-15,LA,19,SurveyMonkey,2370,50,44.5
+2020-10-24,AZ,10,Patinkin Research Strategies,729,37.46,47
+2020-10-31,PA,3,Siena College/NYT Upshot,1862,47,48.5
+2020-10-28,AZ,6,Trafalgar Group,1002,42.6,48
+2020-10-19,OK,15,SurveyMonkey,2289,57,38.7
+2020-10-28,TN,6,SurveyMonkey,5099,47.5,37.54
+2020-10-31,MI,3,AtlasIntel,686,34,49
+2020-08-31,KS,64,SurveyMonkey,922,43,47.7
+2020-08-31,WI,64,Morning Consult,819,40,45.85
+2020-10-30,FL,4,St. Pete Polls,2758,50.64,35
+2020-10-30,WA,4,SurveyMonkey,3899,38,49
+2020-10-28,ME,6,SurveyMonkey,1995,44,46
+2020-10-04,ME,30,Critical Insights,466,40,43
+2020-09-02,OH,62,Rasmussen (Pulse Opinion Research),1000,44,51
+2020-10-19,MN,15,SurveyMonkey,4696,52,47.39
+2020-10-20,MN,14,SurveyUSA,625,53,40
+2020-06-30,IA,126,SurveyMonkey,455,31,44
+2020-08-02,AL,93,Morning Consult,609,49,41
+2020-10-11,NC,23,Susquehanna,500,47,41
+2020-10-20,WI,14,Beacon Research/Shaw & Company,1037,49,43
+2020-10-20,OH,14,Citizen Data,1000,52,32
+2020-10-23,OK,11,SurveyMonkey,2746,45,46
+2020-10-27,ME,7,SurveyMonkey,1916,47,48
+2020-06-08,WI,148,Morning Consult,797,49.1,37
+2020-08-09,ME,86,Critical Insights,453,36,48.6
+2020-10-13,NC,21,Ipsos,660,48,38.900000000000006
+2020-10-13,IN,21,SurveyUSA,685,42,46
+2020-10-18,KY,16,SurveyMonkey,2788,54,42
+2020-10-23,NJ,11,SurveyMonkey,5944,54,37
+2020-10-20,FL,14,Citizen Data,1000,47,36
+2020-10-27,FL,7,CES / YouGov,3755,53,43
+2020-10-29,FL,5,HarrisX,1148,53,36.77
+2020-10-15,MT,19,SurveyMonkey,835,55,43.7
+2020-10-30,DE,4,SurveyMonkey,668,62,32
+2020-10-23,CA,11,SurveyMonkey,22491,46,42
+2020-06-05,WI,151,Morning Consult,797,38,53
+2020-10-06,PA,28,Redfield & Wilton Strategies,927,46,47
+2020-07-25,WI,101,Morning Consult,797,51.77,36.5
+2020-10-20,TX,14,YouGov,1000,39,43
+2020-10-22,LA,12,U. New Orleans,755,42,41
+2020-07-27,CA,99,UC Berkeley,6756,50.879999999999995,46
+2020-08-02,AZ,93,Data for Progress,1215,49,49
+2020-06-30,UT,126,SurveyMonkey,412,53,46
+2020-10-19,NC,15,Change Research,521,42.57,54
+2020-10-13,WY,21,SurveyMonkey,416,48,43.5
+2020-06-30,CT,126,SurveyMonkey,574,58,40.36
+2020-08-12,LA,83,Anzalone Liszt Grove,800,49,45
+2020-10-31,ME,3,Emerson College Polling Society,611,47.1,43
+2020-10-24,DC,10,SurveyMonkey,902,57,37
+2020-07-18,GA,108,Trafalgar Group,1023,42,58
+2020-10-30,AZ,4,SSRS,865,44,51.8
+2020-10-21,MS,13,SurveyMonkey,1541,45,39.4
+2020-10-21,NE,13,SurveyMonkey,1630,41,57
+2020-11-01,AK,2,SurveyMonkey,537,47.5,34
+2020-10-17,WY,17,SurveyMonkey,553,47,46
+2020-10-13,MD,21,SurveyMonkey,3707,63,28
+2020-10-27,TX,7,CES / YouGov,2947,50,39.02
+2020-10-26,GA,8,Swayable,373,44,49
+2020-09-22,AZ,42,Data for Progress,481,49,43
+2020-09-25,PA,39,Redfield & Wilton Strategies,1015,50,46
+2020-10-23,KY,11,SurveyMonkey,3300,50,43
+2020-10-31,ME,3,Emerson College Polling Society,611,39.26,44.43
+2020-06-30,ME,126,SurveyMonkey,202,49,43
+2020-10-13,VT,21,SurveyMonkey,579,43,40
+2020-09-06,NC,58,Change Research,442,43,41
+2020-07-27,CA,99,UC Berkeley,6756,27.69,46
+2020-10-25,PA,9,SurveyMonkey,9986,42.72,41
+2020-07-18,GA,108,Trafalgar Group,1023,40,59.18
+2020-10-16,NV,18,SurveyMonkey,2328,44,42
+2020-10-31,CO,3,SurveyMonkey,2888,49,33
+2020-10-29,ME,5,SurveyMonkey,1215,40,45
+2020-10-15,CO,19,RMG Research,800,42,35.3
+2020-07-27,WI,99,Morning Consult,797,45,36
+2020-10-30,PA,4,Emerson College Polling Society,823,50,43
+2020-09-16,GA,48,Redfield & Wilton Strategies,800,47,48.1
+2020-10-22,WV,12,SurveyMonkey,1203,52,43
+2020-10-31,IA,3,Emerson College Polling Society,604,40,49
+2020-10-14,NJ,20,SurveyMonkey,4272,38.5,48
+2020-10-14,OH,20,SurveyMonkey,5382,42.6,44
+2020-10-13,MI,21,Redfield & Wilton Strategies,972,52,42
+2020-10-10,FL,24,Florida Atlantic University,644,49.3,44
+2020-10-30,IA,4,SurveyMonkey,1490,49,37
+2020-09-06,WI,58,Morning Consult,770,46.2,53
+2020-09-02,NM,62,Research & Polling,1123,46,43
+2020-11-01,PA,2,Change Research,699,53.6,31
+2020-11-02,AR,1,SurveyMonkey,1309,56,36
+2020-10-20,MN,14,SurveyMonkey,4750,65,31
+2020-06-30,MT,126,SurveyMonkey,166,45,40
+2020-10-23,SD,11,SurveyMonkey,928,44,30
+2020-10-06,MN,28,SurveyUSA,929,57.400000000000006,37
+2020-11-02,FL,1,SurveyMonkey,8792,63,31
+2020-10-12,ID,22,SurveyMonkey,1123,33,56
+2020-10-12,FL,22,St. Pete Polls,2215,42,44
+2020-10-20,CO,14,Morning Consult,788,61,32
+2020-10-12,NM,22,SurveyMonkey,1555,43,40
+2020-10-31,MI,3,InsiderAdvantage,500,50,43
+2020-07-31,NC,95,YouGov,1129,50,34
+2020-08-31,NV,64,SurveyMonkey,998,41,45
+2020-10-18,TX,16,SurveyMonkey,14047,51.37,28
+2020-10-16,WY,18,SurveyMonkey,531,44,46
+2020-09-06,FL,58,Change Research,1144,32,60
+2020-10-14,DC,20,SurveyMonkey,612,52,45.4
+2020-11-02,NJ,1,SurveyMonkey,3870,50,41
+2020-08-18,AZ,77,Redfield & Wilton Strategies,856,44,48.36
+2020-10-06,WV,28,Research America Inc.,450,44,26
+2020-10-21,IA,13,SurveyMonkey,2654,48,49.95
+2020-10-14,SC,20,Siena College/NYT Upshot,605,40.74,45
+2020-07-16,WI,110,Morning Consult,797,49.81,48
+2020-10-25,FL,9,Florida Atlantic University,937,54,32
+2020-09-15,MI,49,EPIC/MRA,600,45,39.6
+2020-10-30,FL,4,Emerson College Polling Society,849,51,36
+2020-09-05,ME,59,Fabrizio Ward/Hart Research Associates,800,43,46
+2020-07-31,IL,95,SurveyMonkey,7565,45,44
+2020-10-26,MS,8,Civiqs,507,42,56
+2020-10-31,OH,3,Trafalgar Group,1041,48.9,45.9
+2020-06-30,IA,126,SurveyMonkey,455,39,48
+2020-10-28,MI,6,Wick,1000,40,47
+2020-10-23,OK,11,SurveyMonkey,2746,46,42
+2020-10-12,CA,22,SurveyMonkey,21492,51,44.3
+2020-10-21,MS,13,SurveyMonkey,1541,41,51
+2020-10-19,GA,15,Siena College/NYT Upshot,759,42,43
+2020-11-02,AZ,1,Ipsos,610,60,39.8
+2020-08-23,WI,72,Trafalgar Group,1011,46,31
+2020-10-14,MO,20,SurveyMonkey,3273,48,49
+2020-10-14,NH,20,SurveyMonkey,1153,56,44
+2020-10-31,PA,3,InsiderAdvantage,500,52,33
+2020-10-29,CA,5,SurveyMonkey,11171,37,53
+2020-10-27,AR,7,SurveyMonkey,2154,30,58
+2020-09-23,NV,41,Beacon Research/Shaw & Company,810,46,53
+2020-10-27,HI,7,SurveyMonkey,1231,58,34
+2020-07-25,WI,101,Morning Consult,797,43.6,48.7
+2020-11-01,WI,2,SurveyMonkey,2475,50,46
+2020-11-02,VA,1,SurveyMonkey,4550,51,43
+2020-11-02,MA,1,SurveyMonkey,3653,47.45,48
+2020-10-30,GA,4,SurveyMonkey,3736,50,44
+2020-09-11,MD,53,Opinion Works,753,46.1,48.45
+2020-10-22,SC,12,SurveyMonkey,4255,45,51
+2020-10-21,TN,13,SurveyMonkey,4469,38.32,46
+2020-10-03,AZ,31,Siena College/NYT Upshot,655,61,23
+2020-09-07,PA,57,Marist,771,37,39
+2020-10-30,AZ,4,Siena College/NYT Upshot,1252,41,43
+2020-10-20,MA,14,SurveyMonkey,4820,55.3,37
+2020-10-05,PA,29,Emerson College Polling Society,688,44,36
+2020-10-20,OK,14,SurveyMonkey,2380,45,43.1
+2020-09-20,PA,44,Franklin and Marshall College,480,55,43
+2020-09-14,PA,50,Redfield & Wilton Strategies,1036,45.9,53
+2020-10-30,WY,4,SurveyMonkey,378,47.2,44
+2020-09-15,AZ,49,Siena College/NYT Upshot,653,45,44
+2020-10-21,KY,13,SurveyMonkey,3136,43,42.6
+2020-10-25,MI,9,SurveyMonkey,7094,51,40.7
+2020-09-26,AZ,38,Redfield & Wilton Strategies,871,41.2,46
+2020-07-13,FL,113,Gravis Marketing,529,62,32
+2020-10-31,FL,3,Morning Consult,4451,46,40
+2020-07-26,MI,100,Morning Consult,1320,32,45
+2020-10-20,MI,14,Morning Consult,1717,58,33
+2020-10-24,CO,10,SurveyMonkey,5656,50,40
+2020-09-30,AR,34,SurveyMonkey,771,48.4,45.9
+2020-10-23,MI,11,SurveyMonkey,6891,46,45
+2020-10-16,DC,18,SurveyMonkey,704,46.46,43
+2020-10-18,MI,16,Data for Progress,830,53,30
+2020-10-19,CO,15,SurveyMonkey,5272,42,41.71
+2020-10-20,CT,14,SurveyMonkey,3105,45,54
+2020-08-13,WI,82,Morning Consult,797,45,47
+2020-10-13,NJ,21,SurveyMonkey,4032,49,42
+2020-10-14,FL,20,SurveyMonkey,13016,52,45.5
+2020-11-02,LA,1,SurveyMonkey,1556,33,41
+2020-08-02,TX,93,Morning Consult,2576,39,45
+2020-10-01,NM,33,PPP,886,37.9,53
+2020-10-19,MA,15,SurveyMonkey,4600,55,36.6
+2020-10-18,AR,16,SurveyMonkey,1640,47.2,40.52
+2020-10-18,MI,16,Zia Poll,2851,55.790000000000006,42
+2020-07-31,NJ,95,SurveyMonkey,2426,50,46
+2020-10-20,ID,14,SurveyMonkey,1547,46,44
+2020-10-21,CA,13,UC Berkeley,5352,46,39
+2020-10-31,IL,3,SurveyMonkey,5013,52.3,44
+2020-10-18,MI,16,Trafalgar Group,1034,56,40
+2020-06-30,MS,126,SurveyMonkey,425,45,39
+2020-10-28,NJ,6,SurveyMonkey,6472,44,51
+2020-10-26,OH,8,Swayable,440,53,47
+2020-10-26,CA,8,Swayable,635,48,49.8
+2020-10-13,VA,21,SurveyMonkey,4522,40,41
+2020-10-17,WY,17,SurveyMonkey,553,44,52
+2020-10-14,PA,20,SurveyMonkey,7258,44,56
+2020-09-08,AZ,56,Benenson Strategy Group/GS Strategy Group,1600,49,47
+2020-10-24,NY,10,SurveyMonkey,9750,37,31
+2020-09-13,CA,51,PPIC,1168,47,37
+2020-10-20,FL,14,Morning Consult,4685,49,46
+2020-11-01,VA,2,SurveyMonkey,4145,45,48
+2020-10-14,WY,20,SurveyMonkey,450,48,47
+2020-10-19,SC,15,SurveyMonkey,3810,22.22,50
+2020-10-31,AZ,3,Emerson College Polling Society,732,43.3,44
+2020-10-19,WI,15,Change Research,447,41,42
+2020-06-25,WI,131,Morning Consult,797,48,45
+2020-10-23,MA,11,SurveyMonkey,5198,47.82,43
+2020-10-19,MA,15,SurveyMonkey,4600,38.5,46
+2020-07-28,NH,98,U. New Hampshire,1893,37,33
+2020-09-29,OR,35,Civiqs,944,40,43
+2020-10-09,PA,25,Whitman Insight Strategies,517,32,41.9
+2020-10-27,CT,7,SurveyMonkey,3632,52,46
+2020-10-25,ME,9,SurveyMonkey,1749,51.07,37
+2020-10-10,WI,24,Redfield & Wilton Strategies,613,37,50
+2020-08-31,MN,64,SurveyMonkey,1939,61,26.34
+2020-08-30,GA,65,Morning Consult,1392,52,45.4
+2020-10-28,OH,6,Gravis Marketing,613,44,45
+2020-11-01,OR,2,Swayable,324,69,9
+2020-10-20,IA,14,SurveyMonkey,2581,37,56
+2020-10-24,WI,10,SurveyMonkey,4465,46.6,35
+2020-10-11,MI,23,Siena College/NYT Upshot,614,49,38.5
+2020-10-04,UT,30,Y2 Analytics,1214,48.4,37.47
+2020-08-31,NH,64,SurveyMonkey,444,52,36.65
+2020-10-31,ND,3,SurveyMonkey,399,42,46
+2020-10-29,WI,5,SurveyMonkey,2456,51.8,45
+2020-10-24,OR,10,SurveyMonkey,4862,45,45.3
+2020-11-02,SC,1,Øptimus,817,48,37
+2020-08-16,GA,79,Morning Consult,1265,44,48
+2020-10-18,NC,16,Data for Progress,929,43,44.6
+2020-10-30,AZ,4,SurveyMonkey,3824,49,41
+2020-10-17,NY,17,SurveyMonkey,9914,35.23,40
+2020-11-01,WV,2,SurveyMonkey,738,47.5,45
+2020-10-12,SC,22,SurveyMonkey,2816,55.95,40
+2020-10-19,IA,15,Monmouth U.,501,50,44
+2020-10-31,SD,3,SurveyMonkey,597,44,40
+2020-10-24,NH,10,SurveyMonkey,1599,50.3,42
+2020-10-18,TN,16,SurveyMonkey,3973,40.66,54
+2020-10-30,MD,4,SurveyMonkey,3154,38,45.02
+2020-09-09,WI,55,Morning Consult,816,47,32
+2020-08-31,WI,64,SurveyMonkey,1913,43,57
+2020-07-31,IL,95,SurveyMonkey,7565,40.52,47
+2020-08-30,MN,65,Morning Consult,647,77,22
+2020-10-18,AR,16,SurveyMonkey,1640,51.91,46
+2020-10-17,CO,17,SurveyMonkey,5054,54,37
+2020-09-22,IA,42,Monmouth U.,402,48.15,42
+2020-07-22,WI,104,Morning Consult,797,47,53
+2020-10-13,MI,21,Redfield & Wilton Strategies,972,45,42
+2020-10-15,FL,19,SurveyMonkey,13616,47,44
+2020-09-03,MI,61,Redfield & Wilton Strategies,967,48,43
+2020-11-01,NV,2,SurveyMonkey,2211,48,36
+2020-10-23,WV,11,SurveyMonkey,1223,54,43
+2020-09-07,MN,57,SurveyUSA,553,51,34
+2020-10-28,AL,6,SurveyMonkey,3363,44.35,49
+2020-10-20,WI,14,Beacon Research/Shaw & Company,1037,54,29.200000000000003
+2020-11-01,WI,2,SurveyMonkey,2475,48,47
+2020-10-15,MO,19,Remington,1010,49,44.9
+2020-10-27,OK,7,SurveyMonkey,3082,44.72,48
+2020-10-14,ID,20,SurveyMonkey,1296,45.4,50
+2020-10-16,NE,18,SurveyMonkey,1339,42,44.86
+2020-10-18,GA,16,SurveyMonkey,5795,29.9,55
+2020-10-27,WV,7,SurveyMonkey,1315,49.47,38
+2020-10-15,AR,19,SurveyMonkey,1466,46,40
+2020-08-31,WI,64,Morning Consult,819,33,43
+2020-11-02,DE,1,SurveyMonkey,656,50,40.93
+2020-10-17,CT,17,SurveyMonkey,2907,46,31
+2020-09-30,TX,34,SurveyMonkey,13395,36,37
+2020-10-28,NC,6,Wick,1000,52,42
+2020-10-22,ID,12,SurveyMonkey,1625,57,30
+2020-10-15,MI,19,Harris Poll,1289,48.9,42
+2020-09-16,AZ,48,Ipsos,565,39,54.84
+2020-10-30,AZ,4,Data Orbital,550,58,30.57
+2020-08-31,IN,64,SurveyMonkey,1672,53.6,42
+2020-10-27,NY,7,SurveyMonkey,9937,51,41.9
+2020-10-12,PA,22,Trafalgar Group,1034,50,39
+2020-10-19,IA,15,Monmouth U.,501,44,38.4
+2020-08-13,WI,82,Morning Consult,797,41,44
+2020-10-23,KS,11,SurveyMonkey,3097,58.9,37.38
+2020-10-29,AK,5,SurveyMonkey,663,32,52
+2020-10-31,DE,3,SurveyMonkey,664,37,49.6
+2020-10-12,GA,22,SurveyMonkey,4544,40,48
+2020-11-02,HI,1,SurveyMonkey,688,53,35
+2020-06-29,AZ,127,Data Orbital,600,46,32.46
+2020-10-13,IA,21,David Binder Research,200,65,20
+2020-10-18,RI,16,SurveyMonkey,654,49,46
+2020-10-11,MI,23,Morning Consult,1710,40,43
+2020-08-10,PA,85,Emerson College Polling Society,843,45,32
+2020-09-20,NC,44,Harper Polling,612,47,43
+2020-10-28,NJ,6,SurveyMonkey,6472,49,35
+2020-10-19,GA,15,Siena College/NYT Upshot,759,43,45
+2020-09-02,GA,62,Opinion Insight,800,53,38
+2020-07-26,CO,100,Morning Consult,616,53.54,41
+2020-10-31,OH,3,Morning Consult,2179,33,31
+2020-07-16,PA,110,Pulse Opinion Research,750,32,56
+2020-10-12,WV,22,SurveyMonkey,771,46,40
+2020-10-19,ME,15,SurveyMonkey,1430,61,32
+2020-10-26,NY,8,Swayable,495,45,51
+2020-10-28,NV,6,Gravis Marketing,688,38,46.5
+2020-10-31,GA,3,Emerson College Polling Society,749,48,44
+2020-10-22,ND,12,SurveyMonkey,548,46.9,40
+2020-07-10,FL,116,YouGov,1206,52,46.6
+2020-10-29,OK,5,SurveyMonkey,1866,35,34
+2020-09-13,NC,51,SurveyUSA,596,63,36
+2020-08-31,CO,64,SurveyMonkey,2385,45,38
+2020-10-14,VA,20,SurveyMonkey,4878,50,48
+2020-06-23,WI,133,Morning Consult,797,44.05,43
+2020-08-30,FL,65,Morning Consult,3790,47,40
+2020-10-14,NE,20,SurveyMonkey,1225,43,51
+2020-06-24,WI,132,Morning Consult,797,43,45
+2020-09-08,OK,56,SoonerPoll.com,486,57.620000000000005,32
+2020-06-05,WI,151,Morning Consult,797,39.1,45
+2020-10-14,NC,20,SurveyMonkey,5387,64.65,33
+2020-10-31,ME,3,Emerson College Polling Society,611,45.31,48
+2020-08-30,NV,65,University of Nevada Las Vegas Lee Business School,682,48,40
+2020-10-30,NC,4,SurveyMonkey,5280,50,10
+2020-08-12,WI,83,Morning Consult,797,54,32
+2020-10-21,GA,13,Landmark Communications,500,49,46
+2020-10-06,MI,28,Redfield & Wilton Strategies,700,51,32
+2020-10-23,AR,11,SurveyMonkey,1989,38,53
+2020-10-13,WI,21,SurveyMonkey,4414,52,47
+2020-06-30,SD,126,SurveyMonkey,160,47,53
+2020-10-21,FL,13,Rasmussen (Pulse Opinion Research),800,42.5,42
+2020-07-12,WI,114,Morning Consult,797,47,40
+2020-10-27,GA,7,CES / YouGov,1456,54,36
+2020-10-27,HI,7,SurveyMonkey,1231,50,32
+2020-10-03,OH,31,Trafalgar Group,1035,54,37
+2020-06-06,WI,150,Morning Consult,797,32,41.6
+2020-10-27,PA,7,SurveyMonkey,10250,44,49
+2020-10-29,MI,5,SurveyMonkey,4244,78,15
+2020-08-27,MT,68,Expedition Strategies,400,44.76,46
+2020-10-13,GA,21,SurveyMonkey,4716,47,37
+2020-10-20,KS,14,SurveyMonkey,2825,58,32
+2020-10-20,OH,14,Morning Consult,2271,41,54
+2020-08-04,WI,91,Morning Consult,797,40,60
+2020-10-30,AZ,4,SSRS,865,55,36.5
+2020-10-27,VA,7,SurveyMonkey,7382,57,35
+2020-10-19,MI,15,Change Research,718,37.76,54
+2020-10-25,NE,9,SurveyMonkey,1777,50,43
+2020-10-28,RI,6,SurveyMonkey,910,57,39
+2020-09-25,NV,39,University of Nevada Las Vegas Lee Business School,641,50.6,46
+2020-10-11,GA,23,Data for Progress,782,40,43
+2020-10-30,WV,4,SurveyMonkey,805,49.7,46
+2020-10-14,HI,20,SurveyMonkey,829,51,42
+2020-08-31,AL,64,SurveyMonkey,1220,43.4,43
+2020-09-19,MI,45,Hart Research Associates,400,43,46
+2020-10-14,VA,20,SurveyMonkey,4878,53,46
+2020-10-22,NE,12,SurveyMonkey,1643,41,53
+2020-10-31,MI,3,Trafalgar Group,1033,48,49
+2020-09-22,MI,42,Baldwin Wallace University/Oakland University/Ohio Northern University,1001,52,45
+2020-10-30,AZ,4,SurveyMonkey,3824,43,47
+2020-09-28,SC,36,Data for Progress,824,52,46
+2020-10-19,RI,15,SurveyMonkey,678,51,34
+2020-10-05,AZ,29,Basswood Research,800,48,52
+2020-10-25,AR,9,SurveyMonkey,2033,40,44.3
+2020-07-19,VA,107,Virginia Commonwealth U.,725,40,41
+2020-10-25,AZ,9,OH Predictive Insights / MBQF,716,41.46,43
+2020-08-18,WI,77,Morning Consult,797,52,46.3
+2020-10-19,PA,15,Suffolk,500,58,32
+2020-10-12,TX,22,SurveyMonkey,13198,53.44,43.33
+2020-10-23,MD,11,SurveyMonkey,5324,52,35
+2020-11-01,IN,2,Swayable,264,48,46.7
+2020-10-16,AR,18,SurveyMonkey,1577,48,46
+2020-06-09,WI,147,Morning Consult,797,44,43
+2020-10-28,WY,6,SurveyMonkey,739,55,35
+2020-10-28,MS,6,SurveyMonkey,2116,50,48
+2020-10-20,GA,14,Morning Consult,1672,42,49
+2020-10-19,DE,15,SurveyMonkey,1044,49.43,46
+2020-07-16,OH,110,Pulse Opinion Research,750,50,50
+2020-10-29,MI,5,Mitchell,817,48,39.7
+2020-10-18,NV,16,SurveyMonkey,2492,41,35
+2020-08-05,TX,90,Trafalgar Group,1015,47,38.72
+2020-09-14,WI,50,Morning Consult,809,48,48
+2020-10-27,PA,7,SurveyMonkey,10250,41.5,43
+2020-10-16,WI,18,YouGov,1112,40.21,37
+2020-11-01,PA,2,Marist,772,47,39
+2020-10-13,FL,21,Trafalgar Group,1051,57,43
+2020-08-31,NJ,64,SurveyMonkey,2309,45,50
+2020-08-16,NC,79,Morning Consult,1493,46,53
+2020-10-13,MI,21,RMG Research,800,61,32
+2020-10-28,ND,6,SurveyMonkey,700,56,35
+2020-10-12,MI,22,SurveyMonkey,4656,46,37
+2020-08-20,WI,75,Morning Consult,797,44,41.79
+2020-10-27,IL,7,SurveyMonkey,7810,32.48,48
+2020-11-02,HI,1,SurveyMonkey,688,59,38
+2020-09-06,FL,58,Marist,766,47,52
+2020-10-12,WI,22,SurveyMonkey,4397,53.5,33
+2020-10-22,MT,12,SurveyMonkey,1170,52,45
+2020-10-31,PA,3,Trafalgar Group,1062,50,48
+2020-10-15,NJ,19,SurveyMonkey,4566,50,43
+2020-10-20,MT,14,Siena College/NYT Upshot,758,58,37.8
+2020-10-24,UT,10,SurveyMonkey,2434,45,42
+2020-10-19,OR,15,SurveyMonkey,3909,49,44
+2020-10-28,NY,6,SurveyMonkey,10220,52.25,33.74
+2020-10-27,FL,7,Quinnipiac,1324,54,36
+2020-09-17,MO,47,Remington,1046,47,28
+2020-06-11,MO,145,Remington,1152,44,46.4
+2020-07-31,ME,95,SurveyMonkey,733,52,5
+2020-11-01,OR,2,SurveyMonkey,3252,51,44
+2020-11-01,MN,2,Swayable,466,35.9,57
+2020-09-08,MI,56,Benenson Strategy Group/GS Strategy Group,1600,47.3,36.34
+2020-10-18,MN,16,SurveyMonkey,4544,49,43
+2020-10-29,NC,5,Redfield & Wilton Strategies,1489,51,46
+2020-09-16,AZ,48,Ipsos,565,53,40
+2020-10-13,NV,21,SurveyMonkey,1958,49,42
+2020-10-13,OR,21,SurveyMonkey,3041,62,24
+2020-10-27,HI,7,SurveyMonkey,1231,52,33
+2020-10-29,KS,5,SurveyMonkey,2569,50,43
+2020-10-25,MI,9,Glengariff Group Inc.,600,39,44
+2020-10-14,MD,20,SurveyMonkey,3878,34.74,45
+2020-07-31,MO,95,SurveyMonkey,2261,43.5,42
+2020-10-19,WI,15,Latino Decisions,400,50,31
+2020-11-02,MT,1,SurveyMonkey,1021,39,45
+2020-08-30,NC,65,Morning Consult,1567,42,55.150000000000006
+2020-10-27,WA,7,SurveyMonkey,7406,50,43
+2020-11-01,NY,2,SurveyMonkey,5830,45.1,40.2
+2020-07-18,WI,108,Morning Consult,797,50,41
+2020-10-21,RI,13,SurveyMonkey,760,48,50
+2020-10-31,NE,3,SurveyMonkey,1751,50,42
+2020-09-10,WI,54,Siena College/NYT Upshot,760,39,58
+2020-08-31,LA,64,SurveyMonkey,2587,51,47
+2020-06-30,WI,126,Morning Consult,797,35,57
+2020-10-31,ND,3,SurveyMonkey,399,43.5,41
+2020-10-30,VT,4,SurveyMonkey,734,40,45
+2020-06-07,MI,149,Kiaer Research,543,51,42
+2020-09-07,MN,57,SurveyUSA,553,44,44
+2020-06-30,MT,126,SurveyMonkey,166,47.7,44
+2020-10-27,SC,7,SurveyMonkey,4582,38,43
+2020-10-29,NC,5,Rasmussen (Pulse Opinion Research),800,45,46
+2020-09-21,VA,43,Christopher Newport U.,796,40,59
+2020-10-08,IA,26,Opinion Insight,800,47,42
+2020-10-31,IN,3,SurveyMonkey,2545,77,21
+2020-10-25,DE,9,SurveyMonkey,1212,36.98,59
+2020-10-18,VT,16,SurveyMonkey,769,45,52
+2020-11-01,DC,2,SurveyMonkey,457,59.11,39.4
+2020-10-08,OH,26,Baldwin Wallace University/Oakland University/Ohio Northern University,1009,50.4,41
+2020-10-25,KY,9,SurveyMonkey,3381,40,43
+2020-09-18,FL,46,YouGov,1205,44,43
+2020-10-16,UT,18,SurveyMonkey,2112,51,32
+2020-10-16,DC,18,SurveyMonkey,704,48.6,31
+2020-08-23,MI,72,Trafalgar Group,1048,55.4,44
+2020-06-14,WI,142,Morning Consult,797,49,33
+2020-10-16,WY,18,SurveyMonkey,531,51,43
+2020-08-31,SC,64,SurveyMonkey,1326,51,10
+2020-10-06,TX,28,Crosswind Media & Public Relations,1000,53,40
+2020-10-29,MN,5,SurveyMonkey,3011,50,45
+2020-10-12,OH,22,SurveyMonkey,5056,54,29
+2020-08-31,DE,64,SurveyMonkey,348,44,47.76
+2020-10-14,FL,20,SurveyMonkey,13016,43,48
+2020-11-01,IA,2,Change Research,1084,50,43
+2020-10-22,IA,12,SurveyMonkey,2706,40.1,44
+2020-10-22,VA,12,Virginia Commonwealth U.,709,59.38,35
+2020-09-13,NC,51,SurveyUSA,596,43,37
+2020-09-07,PA,57,Morning Consult,2227,40,44
+2020-06-07,WI,149,Morning Consult,797,44,40.55
+2020-10-28,WY,6,SurveyMonkey,739,48,47
+2020-07-22,WI,104,Gravis Marketing,796,42,44
+2020-10-19,GA,15,Emerson College Polling Society,506,45,53
+2020-10-19,AZ,15,SurveyMonkey,5945,47.13,48.6
+2020-10-18,RI,16,SurveyMonkey,654,39,48
+2020-10-25,OR,9,SurveyMonkey,4932,49.5,48
+2020-10-26,FL,8,YouGov,1200,48,36
+2020-10-28,AZ,6,SurveyMonkey,5687,50,47
+2020-10-30,WI,4,Emerson College Polling Society,751,31.78,41.45
+2020-10-11,PA,23,Morning Consult,2610,55,45
+2020-10-13,MS,21,SurveyMonkey,1118,42,49.51
+2020-07-31,TN,95,SurveyMonkey,2481,51.67,32
+2020-09-07,MI,57,Morning Consult,1455,57,32.8
+2020-08-31,NV,64,SurveyMonkey,998,47.85,29
+2020-10-31,WA,3,SurveyMonkey,3931,52,45.5
+2020-10-19,AZ,15,Change Research,232,55,33
+2020-10-18,ND,16,SurveyMonkey,490,41.49,51
+2020-10-24,AZ,10,Y2 Analytics,700,59,41
+2020-11-01,AL,2,SurveyMonkey,1608,54,39
+2020-10-20,NH,14,SurveyMonkey,1448,47.3,47.04
+2020-10-19,AZ,15,RMG Research,800,51,36
+2020-10-18,DE,16,SurveyMonkey,989,45,33
+2020-09-10,NV,54,Siena College/NYT Upshot,462,49,43.9
+2020-06-30,OH,126,SurveyMonkey,1610,48,47.3
+2020-11-02,MS,1,SurveyMonkey,1461,43,43
+2020-10-12,NH,22,SurveyMonkey,1004,42,51.66
+2020-10-25,AZ,9,OH Predictive Insights / MBQF,716,55,31
+2020-09-16,NC,48,Ipsos,586,47,37
+2020-06-30,WV,126,SurveyMonkey,264,49,42
+2020-10-18,WY,16,SurveyMonkey,558,43,41.1
+2020-09-30,NJ,34,SurveyMonkey,2952,46.35,31
+2020-06-30,MA,126,SurveyMonkey,1091,55,32
+2020-10-23,SD,11,SurveyMonkey,928,45,48
+2020-07-26,WI,100,Change Research,392,61,35
+2020-10-12,NH,22,SurveyMonkey,1004,40.7,32
+2020-10-16,NY,18,SurveyMonkey,9878,48,44
+2020-07-30,MI,96,EPIC/MRA,600,48,44.9
+2020-06-11,MO,145,Remington,1152,54.8,29
+2020-10-24,HI,10,SurveyMonkey,1172,48,47
+2020-10-29,NM,5,Research & Polling,1180,36.03,31
+2020-10-22,RI,12,SurveyMonkey,786,46.5,47
+2020-10-20,DC,14,SurveyMonkey,796,55,40
+2020-10-14,MI,20,Trafalgar Group,1025,53,45.1
+2020-10-27,LA,7,SurveyMonkey,2569,44,54
+2020-10-20,TX,14,Morning Consult,3347,55,31
+2020-10-29,NM,5,SurveyMonkey,1548,33,45.37
+2020-10-27,IL,7,SurveyMonkey,7810,57,38
+2020-10-27,MI,7,Mitchell,759,38.9,38
+2020-10-23,MT,11,SurveyMonkey,1210,51,48
+2020-09-18,FL,46,YouGov,1205,53,37
+2020-06-29,AZ,127,Data Orbital,600,50,44
+2020-09-02,TX,62,University of Texas at Tyler,901,47,48
+2020-10-13,LA,21,SurveyMonkey,2284,55,45
+2020-08-28,WI,67,Opinium,700,45,47
+2020-10-27,OH,7,Quinnipiac,1186,44,43.81
+2020-10-23,MD,11,SurveyMonkey,5324,48,45
+2020-10-22,MI,12,SurveyMonkey,6767,48.5,45.5
+2020-10-20,WI,14,RMG Research,800,42,47.19
+2020-10-25,MT,9,SurveyMonkey,1266,47,51
+2020-07-10,TX,116,YouGov,1185,51,46.7
+2020-08-31,MO,64,SurveyMonkey,1863,56,38.67
+2020-10-18,WA,16,SurveyMonkey,7668,39,44.6
+2020-11-01,WV,2,SurveyMonkey,738,56,43
+2020-10-14,AL,20,SurveyMonkey,2265,55,32
+2020-09-23,MI,41,Marist,799,44,51
+2020-11-02,KS,1,SurveyMonkey,2321,44,45
+2020-10-14,DE,20,SurveyMonkey,848,45.36,43
+2020-10-14,NE,20,SurveyMonkey,1225,46,42
+2020-10-12,FL,22,SurveyMonkey,12604,45,48
+2020-09-06,FL,58,Marist,766,31,42
+2020-08-17,WI,78,Morning Consult,797,50,47.7
+2020-10-31,SC,3,SurveyMonkey,2444,44,43
+2020-10-30,HI,4,SurveyMonkey,646,48,44
+2020-09-06,AZ,58,Change Research,470,38,10
+2020-10-18,AL,16,SurveyMonkey,2710,49,42
+2020-10-20,MS,14,SurveyMonkey,1495,59,35
+2020-10-19,MN,15,SurveyMonkey,4696,33,49
+2020-10-14,AZ,20,Ipsos,667,65,18.79
+2020-11-01,CO,2,Swayable,455,52,41
+2020-10-23,LA,11,SurveyMonkey,2548,49,36
+2020-10-14,VA,20,Civiqs,1231,52,30.44
+2020-10-15,MI,19,SurveyMonkey,5448,42,44
+2020-10-10,WI,24,Redfield & Wilton Strategies,613,49.08,43
+2020-11-01,MI,2,Change Research,383,43,48
+2020-11-01,MN,2,Research Co.,450,44,55
+2020-10-18,NM,16,SurveyMonkey,2026,47,48
+2020-09-27,NC,37,Hart Research Associates,400,46,41.3
+2020-10-23,NV,11,University of Nevada Las Vegas Lee Business School,802,52,43.74
+2020-10-19,NJ,15,SurveyMonkey,5121,49,37
+2020-10-12,RI,22,SurveyMonkey,488,51.2,45
+2020-10-19,PA,15,Quinnipiac,1241,47,36
+2020-10-14,CO,20,SurveyMonkey,4345,48,50
+2020-10-15,VA,19,SurveyMonkey,5242,35,59
+2020-07-07,AZ,119,OH Predictive Insights / MBQF,600,40,6
+2020-10-05,NC,29,Data for Progress,1285,53.24,35
+2020-10-28,TX,6,Gravis Marketing,670,39.02,47
+2020-10-13,NE,21,SurveyMonkey,1159,53,33
+2020-10-26,MI,8,Siena College/NYT Upshot,856,52,44
+2020-09-30,WI,34,SurveyMonkey,3806,37,57
+2020-10-14,AK,20,SurveyMonkey,796,47.5,50
+2020-10-13,OK,21,SurveyMonkey,1804,46,25
+2020-08-16,PA,79,Morning Consult,1777,39,52
+2020-09-06,FL,58,Change Research,1144,39,59.24
+2020-10-12,AR,22,SurveyMonkey,1231,37,48
+2020-10-20,IA,14,SurveyMonkey,2581,43,34
+2020-11-01,TX,2,SurveyMonkey,8250,50,43
+2020-10-30,MO,4,SurveyMonkey,2835,45,39
+2020-06-30,RI,126,SurveyMonkey,176,44,44
+2020-08-02,TX,93,Morning Consult,2576,48,40
+2020-07-26,FL,100,Morning Consult,3760,62,36
+2020-08-16,GA,79,Morning Consult,1265,39,52
+2020-10-28,SD,6,SurveyMonkey,1098,48,49
+2020-09-30,HI,34,SurveyMonkey,474,46,43
+2020-09-28,NH,36,American Research Group,600,52.5,39
+2020-10-24,PA,10,SurveyMonkey,9903,45,46.4
+2020-10-25,ME,9,SurveyMonkey,1749,50,46.42
+2020-10-31,OH,3,Trafalgar Group,1041,39,43
+2020-10-28,CA,6,SurveyMonkey,22450,50,48
+2020-09-16,FL,48,Ipsos,586,44,39
+2020-09-29,NY,35,Siena,504,45,43
+2020-09-14,WI,50,Morning Consult,809,59,34
+2020-10-27,MI,7,Mitchell,759,41,48
+2020-10-13,AZ,21,SurveyMonkey,5690,50,45
+2020-10-15,HI,19,SurveyMonkey,896,70.34,19
+2020-10-21,MS,13,SurveyMonkey,1541,38,59
+2020-11-01,NC,2,SurveyMonkey,4867,60,32
+2020-10-20,MA,14,SurveyMonkey,4820,51,35
+2020-10-18,OR,16,SurveyMonkey,3754,38,47
+2020-10-18,NE,16,SurveyMonkey,1394,38.8,51
+2020-08-24,PA,71,Greenberg Quinlan Rosner,500,49,45
+2020-06-30,CT,126,SurveyMonkey,574,46,48.35
+2020-10-09,CO,25,YouGov,800,42,52.7
+2020-09-30,NV,34,SurveyMonkey,1239,41,43
+2020-09-21,GA,43,Siena College/NYT Upshot,523,56,38.1
+2020-10-17,MS,17,SurveyMonkey,1383,45.7,37
+2020-10-25,UT,9,SurveyMonkey,2466,47,47
+2020-10-12,NJ,22,SurveyMonkey,3893,48,46
+2020-10-16,MN,18,SurveyMonkey,4440,37,53
+2020-10-19,IA,15,InsiderAdvantage,400,48,46.5
+2020-10-25,TX,9,Siena College/NYT Upshot,802,47,36.5
+2020-10-20,GA,14,Citizen Data,1000,47,46
+2020-10-21,VA,13,SurveyMonkey,6382,56.3,40
+2020-07-05,WI,121,Morning Consult,797,42,41
+2020-10-18,MS,16,SurveyMonkey,1404,48.77,34
+2020-10-24,KS,10,SurveyMonkey,3126,39,50
+2020-10-14,AZ,20,SurveyMonkey,5657,48,40
+2020-10-18,MI,16,Zia Poll,2851,38,42
+2020-09-30,OR,34,SurveyMonkey,2109,55.1,33
+2020-10-31,TX,3,Emerson College Polling Society,763,42.3,45
+2020-07-12,AZ,114,Change Research,345,49,41
+2020-10-20,NV,14,SurveyMonkey,2671,55,31
+2020-10-15,DE,19,SurveyMonkey,900,54,40
+2020-10-24,WA,10,SurveyMonkey,7371,33,38
+2020-08-23,MI,72,Trafalgar Group,1048,46,54
+2020-10-15,VA,19,SurveyMonkey,5242,47.7,47
+2020-07-31,PA,95,SurveyMonkey,4208,47,47
+2020-09-01,WI,63,Beacon Research/Shaw & Company,801,42,49
+2020-07-31,AK,95,SurveyMonkey,412,42,50.59
+2020-10-22,MS,12,SurveyMonkey,1612,64,34.68
+2020-10-24,OR,10,SurveyMonkey,4862,40,44
+2020-07-31,RI,95,SurveyMonkey,253,55.17,43
+2020-07-31,AL,95,SurveyMonkey,1583,37,49.3
+2020-11-01,AZ,2,Change Research,409,45,43
+2020-11-02,NM,1,SurveyMonkey,1481,54,32
+2020-09-30,AR,34,SurveyMonkey,771,50,46
+2020-07-07,AZ,119,OH Predictive Insights / MBQF,600,54,32
+2020-10-15,NM,19,SurveyMonkey,1839,52,43
+2020-11-02,NE,1,SurveyMonkey,1742,45,43
+2020-11-01,MN,2,Research Co.,450,49,44.7
+2020-10-28,UT,6,SurveyMonkey,2783,38,48
+2020-10-14,KS,20,SurveyMonkey,1838,46,52
+2020-06-30,NM,126,SurveyMonkey,506,42,45
+2020-11-01,RI,2,SurveyMonkey,517,32,54
+2020-10-20,CO,14,Morning Consult,788,36,51
+2020-11-02,PA,1,Swayable,1107,58,26
+2020-10-20,PA,14,Morning Consult,2563,36,45.5
+2020-10-21,CA,13,SurveyMonkey,22980,54,37
+2020-09-07,NC,57,Morning Consult,1592,48,38
+2020-10-28,TN,6,SurveyMonkey,5099,50,42
+2020-10-20,PA,14,SSRS,843,38.1,48.5
+2020-09-30,AR,34,SurveyMonkey,771,54,33.4
+2020-09-22,IA,42,Monmouth U.,402,58.010000000000005,36
+2020-10-17,PA,17,SurveyMonkey,8360,49,40
+2020-06-30,HI,126,SurveyMonkey,207,52,47
+2020-09-29,FL,35,Cherry Communications,604,47,43
+2020-09-30,CA,34,SurveyMonkey,20346,50.5,46
+2020-10-06,MN,28,SurveyUSA,929,44.95,32
+2020-09-21,NV,43,Anzalone Liszt Grove,800,53,33
+2020-10-18,CT,16,SurveyMonkey,2935,39,49
+2020-10-17,IA,17,SurveyMonkey,2383,61,36
+2020-10-08,FL,26,RMG Research,800,35,64.11
+2020-10-13,AZ,21,Monmouth U.,502,42,41
+2020-08-31,NM,64,SurveyMonkey,1087,52,35
+2020-10-23,KY,11,SurveyMonkey,3300,32,53
+2020-10-20,NC,14,Ipsos,660,50,16
+2020-09-07,WI,57,Morning Consult,791,52,35
+2020-10-17,CO,17,SurveyMonkey,5054,40,49
+2020-08-09,KS,86,SurveyUSA,1202,38,61.68000000000001
+2020-11-02,TX,1,SurveyMonkey,9226,45,47
+2020-06-30,MI,126,SurveyMonkey,1238,45,41
+2020-08-31,HI,64,SurveyMonkey,362,35,49.42
+2020-10-12,ID,22,SurveyMonkey,1123,49,31
+2020-07-12,PA,114,Change Research,743,51,44
+2020-10-12,SD,22,SurveyMonkey,547,50,39
+2020-10-20,MI,14,Morning Consult,1717,53,46
+2020-08-30,MN,65,Morning Consult,647,47,32
+2020-10-24,MN,10,SurveyMonkey,4988,48.59,8
+2020-10-12,MN,22,SurveyMonkey,3525,47.3,37.07
+2020-10-21,AZ,13,SurveyMonkey,5852,41,34
+2020-07-31,MO,95,SurveyMonkey,2261,48.5,36
+2020-10-18,MT,16,SurveyMonkey,924,47,46
+2020-10-24,IL,10,SurveyMonkey,7633,41,46
+2020-10-28,OH,6,Gravis Marketing,613,49,45
+2020-10-16,NV,18,SurveyMonkey,2328,58,28
+2020-10-17,IN,17,SurveyMonkey,3857,57,32.4
+2020-10-27,OH,7,SurveyMonkey,7825,43.8,46
+2020-08-16,GA,79,Morning Consult,1265,45,47.9
+2020-10-17,TX,17,SurveyMonkey,13991,50,41
+2020-09-24,WI,40,Marist,727,47,40
+2020-10-17,FL,17,SurveyMonkey,14126,52,36
+2020-10-20,PA,14,Muhlenberg,416,38.3,49.99
+2020-10-14,TN,20,SurveyMonkey,3433,36,55
+2020-10-27,RI,7,SurveyMonkey,863,46,51
+2020-09-16,PA,48,Ipsos,611,47,42
+2020-10-28,OR,6,SurveyMonkey,5422,55,34
+2020-10-25,ID,9,SurveyMonkey,1679,44,51.22
+2020-09-30,NJ,34,SurveyMonkey,2952,38.13,50
+2020-08-27,PA,68,Rasmussen (Pulse Opinion Research),1000,72,27.5
+2020-10-30,VA,4,SurveyMonkey,4326,44,45
+2020-10-25,AZ,9,OH Predictive Insights / MBQF,716,58,33
+2020-10-21,WY,13,SurveyMonkey,605,52.07,36
+2020-06-28,AZ,128,Change Research,311,55.33,40
+2020-10-27,IL,7,SurveyMonkey,7810,33,62
+2020-09-28,ME,36,Data for Progress,718,56.56,42.5
+2020-09-01,CO,63,Global Strategy Group,800,48,45
+2020-10-29,WI,5,Redfield & Wilton Strategies,800,50,38
+2020-11-02,VA,1,SurveyMonkey,4550,44,49
+2020-09-30,AZ,34,SurveyMonkey,7100,48,37
+2020-10-28,GA,6,SurveyMonkey,7019,39,46
+2020-10-17,MD,17,SurveyMonkey,4385,47,43
+2020-11-02,VT,1,SurveyMonkey,906,47.19,33.07
+2020-10-22,CT,12,SurveyMonkey,3368,49,49.15
+2020-06-27,WI,129,Morning Consult,797,61,37.69
+2020-10-20,WV,14,Triton Polling & Research,544,44,40
+2020-06-07,WI,149,Morning Consult,797,46,29
+2020-10-24,CO,10,SurveyMonkey,5656,43,50
+2020-11-01,FL,2,Change Research,806,48,48
+2020-06-29,AZ,127,Data Orbital,600,61.8,37.9
+2020-07-31,VA,95,SurveyMonkey,3178,41,38
+2020-06-30,LA,126,SurveyMonkey,1134,39,44
+2020-10-23,KY,11,SurveyMonkey,3300,56,36
+2020-07-26,MN,100,Morning Consult,662,48,48.1
+2020-10-26,IL,8,Swayable,424,51,40
+2020-10-30,AZ,4,Siena College/NYT Upshot,1252,50.81,49.1
+2020-10-17,ID,17,SurveyMonkey,1461,36.95,45.2
+2020-08-31,WY,64,SurveyMonkey,211,44,47
+2020-10-13,HI,21,SurveyMonkey,755,53,42
+2020-10-18,CO,16,SurveyMonkey,5126,54,34
+2020-10-19,IL,15,SurveyMonkey,7410,45,52
+2020-10-14,NV,20,SurveyMonkey,1994,46.2,46
+2020-09-17,MN,47,Redfield & Wilton Strategies,718,42,41
+2020-10-04,AK,30,Patinkin Research Strategies,600,59,36
+2020-10-20,WI,14,SurveyMonkey,4513,50,48
+2020-10-16,UT,18,SurveyMonkey,2112,39,30
+2020-10-12,NJ,22,SurveyMonkey,3893,48,37
+2020-10-17,LA,17,SurveyMonkey,2425,50.5,49
+2020-10-20,HI,14,SurveyMonkey,1054,49,39
+2020-10-30,AZ,4,SSRS,865,51,42
+2020-08-02,AL,93,Morning Consult,609,46.53,42
+2020-10-15,KY,19,Mason-Dixon,625,53,40
+2020-10-18,DE,16,SurveyMonkey,989,54,37
+2020-07-31,GA,95,SurveyMonkey,3745,50,42
+2020-11-01,MD,2,SurveyMonkey,2918,55.61,41
+2020-07-12,NC,114,Change Research,655,47,42
+2020-10-29,OH,5,SurveyMonkey,5092,48.38,35
+2020-06-30,CT,126,SurveyMonkey,574,49.78,36
+2020-10-21,TN,13,SurveyMonkey,4469,51,47
+2020-10-31,MS,3,SurveyMonkey,1369,48,44.3
+2020-10-24,FL,10,The Political Matrix/The Listener Group,895,52,34.9
+2020-10-08,PA,26,Baldwin Wallace University/Oakland University/Ohio Northern University,1140,40,43
+2020-08-16,MN,79,Morning Consult,615,52,36
+2020-11-01,GA,2,Swayable,438,52,41
+2020-11-01,NV,2,SurveyMonkey,2211,41,46
+2020-10-24,MI,10,Gravis Marketing,679,62,34
+2020-10-23,WI,11,Gravis Marketing,677,32,60
+2020-10-19,AZ,15,RMG Research,800,44,39.6
+2020-10-13,LA,21,SurveyMonkey,2284,45,37.73
+2020-08-31,NM,64,SurveyMonkey,1087,41,50
+2020-07-31,NJ,95,SurveyMonkey,2426,48,46
+2020-10-31,WA,3,SurveyMonkey,3931,55.73,37.5
+2020-07-19,SC,107,brilliant corners Research & Strategies,800,45,40.8
+2020-07-18,GA,108,Trafalgar Group,1023,51,38.05
+2020-10-09,CO,25,YouGov,800,45,49
+2020-10-13,NC,21,SurveyMonkey,5112,49,33
+2020-10-11,OH,23,Civiqs,586,52,41
+2020-10-28,AK,6,SurveyMonkey,1147,52,36
+2020-10-31,GA,3,Morning Consult,1743,37.5,50
+2020-10-20,MI,14,Citizen Data,1000,37,44
+2020-09-07,IN,57,Change Research,1033,41,44
+2020-10-26,GA,8,Civiqs,1041,39,46
+2020-10-17,GA,17,SurveyMonkey,5725,42,36
+2020-11-02,MO,1,SurveyMonkey,2926,40,43
+2020-10-04,AK,30,Alaska Survey Research,676,49,42
+2020-10-27,AK,7,SurveyMonkey,1131,39,61
+2020-10-31,PA,3,Siena College/NYT Upshot,1862,54,43
+2020-10-17,GA,17,SurveyMonkey,5725,44,53
+2020-10-20,LA,14,SurveyMonkey,2517,46.4,51
+2020-07-26,WI,100,Change Research,392,50,45.7
+2020-09-30,IL,34,SurveyMonkey,8392,48,34.72
+2020-10-10,NC,24,Redfield & Wilton Strategies,950,50,47.1
+2020-10-12,AK,22,SurveyMonkey,751,45,55
+2020-08-09,FL,86,Change Research,469,45,42
+2020-06-28,WI,128,Change Research,502,39,49
+2020-10-24,MI,10,Gravis Marketing,679,50,34
+2020-10-17,NE,17,SurveyMonkey,1364,47,43
+2020-10-20,OR,14,SurveyMonkey,4175,52,48
+2020-10-21,PA,13,SurveyMonkey,9301,41.5,46
+2020-10-28,NC,6,SurveyMonkey,8720,50,45
+2020-09-16,WI,48,Morning Consult,800,49,47
+2020-10-31,OR,3,SurveyMonkey,3451,44.95,35
+2020-09-06,WI,58,Change Research,501,43,46
+2020-10-01,NH,33,Emerson College Polling Society,700,56,33
+2020-10-18,PA,16,SurveyMonkey,8532,53,37
+2020-09-11,WI,53,Morning Consult,797,39,52.88
+2020-10-19,WI,15,Change Research,447,51,41
+2020-10-22,NV,12,SurveyMonkey,2790,41,38
+2020-10-21,SD,13,SurveyMonkey,847,46,40
+2020-10-26,NC,8,RMG Research,800,46,46
+2020-06-16,PA,140,Redfield & Wilton Strategies,1125,38,49
+2020-10-13,MI,21,Redfield & Wilton Strategies,972,40.9,55.769999999999996
+2020-07-23,OH,103,Zogby,805,47,41
+2020-07-31,WI,95,David Binder Research,200,48.1,44
+2020-10-16,AK,18,SurveyMonkey,898,32,59
+2020-07-31,TX,95,SurveyMonkey,13721,48,46
+2020-10-19,IA,15,SurveyMonkey,2539,44,54
+2020-10-20,MI,14,Citizen Data,1000,45,44
+2020-11-02,NE,1,SurveyMonkey,1742,57,36
+2020-09-15,MI,49,EPIC/MRA,600,43.2,49
+2020-10-12,CT,22,SurveyMonkey,2088,53,44
+2020-10-14,MO,20,SurveyMonkey,3273,38,45
+2020-07-31,AL,95,SurveyMonkey,1583,41,48
+2020-10-11,NC,23,Morning Consult,1993,57,27.200000000000003
+2020-10-28,DE,6,SurveyMonkey,1323,51,46
+2020-10-31,PA,3,InsiderAdvantage,500,50,48
+2020-10-09,IA,25,YouGov,1035,46.4,41
+2020-09-30,MA,34,SurveyMonkey,2665,47,51
+2020-10-27,NC,7,Gravis Marketing,614,48.3,51
+2020-10-12,FL,22,Clearview Research,550,46,38.38
+2020-10-31,NE,3,SurveyMonkey,1751,41.72,56
+2020-10-20,MN,14,SurveyUSA,625,40,43
+2020-10-22,NC,12,SurveyMonkey,7271,52,46
+2020-10-16,IA,18,SurveyMonkey,2358,43,53
+2020-10-24,NJ,10,Rutgers-Eagleton,872,45,53
+2020-10-06,IA,28,Civiqs,756,47,51
+2020-10-13,NC,21,Siena College/NYT Upshot,627,34,56
+2020-08-31,ME,64,SurveyMonkey,502,57,36
+2020-09-28,IA,36,Data for Progress,743,48.54,46
+2020-06-15,WI,141,Morning Consult,797,40,42.9
+2020-10-31,MA,3,SurveyMonkey,3462,47,51
+2020-10-24,FL,10,The Political Matrix/The Listener Group,895,36,50
+2020-07-24,MI,102,Redfield & Wilton Strategies,811,30,53.75
+2020-10-30,GA,4,SurveyMonkey,3736,47,49
+2020-06-28,NC,128,Change Research,468,48,45
+2020-11-01,PA,2,Marist,772,52,39
+2020-10-03,AZ,31,Patinkin Research Strategies,604,47,34
+2020-10-20,GA,14,Citizen Data,1000,52,32.02
+2020-10-25,OH,9,SurveyMonkey,7598,45,46
+2020-11-02,MA,1,SurveyMonkey,3653,51,46
+2020-06-30,WY,126,SurveyMonkey,98,43,40
+2020-10-17,TN,17,SurveyMonkey,3901,53,46
+2020-10-29,MS,5,SurveyMonkey,1342,45,45
+2020-10-30,AZ,4,SSRS,865,49,39
+2020-11-02,VA,1,SurveyMonkey,4550,66.91,33
+2020-10-12,NY,22,SurveyMonkey,9405,46.48,44.4
+2020-10-31,MA,3,SurveyMonkey,3462,57.209999999999994,28
+2020-10-17,RI,17,SurveyMonkey,645,43,48
+2020-09-21,NV,43,Anzalone Liszt Grove,800,46,38
+2020-10-23,MN,11,SurveyMonkey,5002,41,56
+2020-08-07,WI,88,YouGov,994,48,46
+2020-10-19,PA,15,Suffolk,500,42,42
+2020-07-31,TX,95,SurveyMonkey,13721,40,47
+2020-09-30,NM,34,SurveyMonkey,1015,47,46
+2020-10-20,TX,14,Morning Consult,3347,51,44.8
+2020-10-27,OH,7,SurveyMonkey,7825,49,48
+2020-10-23,WI,11,Gravis Marketing,677,39,46
+2020-09-29,NY,35,Siena,504,49.9,49
+2020-08-10,NC,85,Harper Polling,600,38,47.2
+2020-10-30,VA,4,SurveyMonkey,4326,37,43
+2020-10-12,DE,22,SurveyMonkey,740,45,43
+2020-10-27,WY,7,SurveyMonkey,713,49,46
+2020-11-02,DE,1,SurveyMonkey,656,44,48
+2020-10-25,NV,9,SurveyMonkey,3015,62.21,37
+2020-07-02,GA,124,Gravis Marketing,513,50,48.5
+2020-10-14,AL,20,Moore Information,504,55,37
+2020-10-31,IA,3,Emerson College Polling Society,604,36,38
+2020-10-20,PA,14,SSRS,843,51,43.2
+2020-09-22,OH,42,Baldwin Wallace University/Oakland University/Ohio Northern University,1011,45,44
+2020-10-29,TX,5,SurveyMonkey,8648,40,58
+2020-10-16,UT,18,SurveyMonkey,2112,43,56
+2020-07-31,MS,95,SurveyMonkey,733,49,42
+2020-06-30,NC,126,SurveyMonkey,1498,47,47.4
+2020-08-17,NC,78,Redfield & Wilton Strategies,967,49,41.42
+2020-09-15,AZ,49,Siena College/NYT Upshot,653,28.03,39
+2020-11-01,MD,2,SurveyMonkey,2918,45,38.6
+2020-10-17,VA,17,SurveyMonkey,5595,53,33
+2020-07-07,AZ,119,OH Predictive Insights / MBQF,600,47,32
+2020-10-18,OH,16,SurveyMonkey,6191,55,42
+2020-09-16,NJ,48,DKC Analytics,501,44.2,42
+2020-07-22,WI,104,Gravis Marketing,796,59,33
+2020-10-20,MN,14,SurveyMonkey,4750,43,45.5
+2020-10-31,MN,3,SurveyMonkey,2935,45,49
+2020-09-13,NC,51,SurveyUSA,596,45,42
+2020-11-01,GA,2,Landmark Communications,500,39,45
+2020-10-20,NJ,14,SurveyMonkey,5303,45.22,10
+2020-11-01,CO,2,Keating Research/OnSight Public Affairs/Melanson,502,35.22,49.52
+2020-09-11,AZ,53,YouGov,1106,42,49
+2020-10-18,OR,16,SurveyMonkey,3754,44.5,35
+2020-09-23,OH,41,Beacon Research/Shaw & Company,830,45.3,41
+2020-08-04,AZ,91,OH Predictive Insights / MBQF,603,44,39
+2020-10-27,OH,7,SurveyMonkey,7825,49,47
+2020-10-28,MN,6,SurveyMonkey,5498,46,41
+2020-09-01,WI,63,Morning Consult,809,39,58
+2020-07-20,WI,106,Spry Strategies,700,37.2,60
+2020-09-16,NC,48,Siena College/NYT Upshot,653,41,43
+2020-11-02,SC,1,SurveyMonkey,2485,48,41
+2020-10-12,NJ,22,SurveyMonkey,3893,48,47
+2020-10-23,NV,11,SurveyMonkey,2787,51,45
+2020-10-25,CT,9,SurveyMonkey,3490,52,46
+2020-10-11,MI,23,Morning Consult,1710,39,46
+2020-10-12,MD,22,SurveyMonkey,3564,53,37
+2020-10-27,UT,7,SurveyMonkey,2689,40,44.1
+2020-09-30,CA,34,SurveyMonkey,20346,35.71,44
+2020-07-16,MI,110,Spry Strategies,700,51.2,42
+2020-10-13,TX,21,SurveyMonkey,13081,48.7,38
+2020-09-20,FL,44,ABC News,613,44,49
+2020-10-11,NC,23,SurveyUSA,669,50,44
+2020-09-04,WI,60,Morning Consult,775,50.5,41
+2020-10-19,WI,15,SurveyMonkey,4511,52,45
+2020-07-23,NC,103,Zogby,809,42.24,49
+2020-11-01,MT,2,SurveyMonkey,957,53,27
+2020-08-31,MT,64,SurveyMonkey,1939,44,45
+2020-10-23,WV,11,SurveyMonkey,1223,45.8,44.5
+2020-11-01,CT,2,Swayable,367,53,43
+2020-10-31,DE,3,SurveyMonkey,664,43,48.7
+2020-10-27,NC,7,Ipsos,647,53,31
+2020-10-30,FL,4,SurveyMonkey,7604,43,56
+2020-10-30,IA,4,InsiderAdvantage,400,50.2,47.5
+2020-10-16,WA,18,SurveyMonkey,7677,55,31
+2020-10-24,NH,10,SurveyMonkey,1599,51,40
+2020-10-29,IL,5,SurveyMonkey,4782,49,38
+2020-11-01,OH,2,Swayable,516,47,35
+2020-09-16,GA,48,Redfield & Wilton Strategies,800,43,45
+2020-10-12,MA,22,SurveyMonkey,3523,43,47
+2020-10-25,NH,9,SurveyMonkey,1629,62.480000000000004,33
+2020-10-26,NH,8,U. Massachusetts - Lowell,757,51,48
+2020-10-27,MO,7,SurveyMonkey,4573,51,48.43
+2020-11-01,CO,2,Keating Research/OnSight Public Affairs/Melanson,502,56.63,28
+2020-10-20,NE,14,SurveyMonkey,1543,48,43
+2020-07-31,KY,95,SurveyMonkey,1709,51,44
+2020-10-01,NM,33,PPP,886,47,49
+2020-10-28,KY,6,SurveyMonkey,3621,45.9,42
+2020-10-14,NM,20,SurveyMonkey,1701,32,44
+2020-09-21,PA,43,YouGov,642,46,32
+2020-09-27,WI,37,Redfield & Wilton Strategies,663,44.8,35
+2020-10-17,UT,17,RMG Research,1000,54,39
+2020-11-01,NC,2,SurveyMonkey,4867,47,46.4
+2020-11-02,NC,1,SurveyMonkey,5363,49,49
+2020-10-15,OR,19,SurveyMonkey,3444,42.9,53
+2020-10-27,NV,7,SurveyMonkey,3226,41.9,45
+2020-10-22,MT,12,SurveyMonkey,1170,51,45.9
+2020-10-21,SD,13,Mason-Dixon,625,49,49
+2020-08-15,MI,80,Hodas & Associates,600,47,47
+2020-10-04,FL,30,Suffolk,500,51,41
+2020-10-26,NC,8,Swayable,396,52,46
+2020-09-21,WI,43,YouGov,664,60,28
+2020-10-16,OK,18,SurveyMonkey,2102,45,46
+2020-08-04,WI,91,Morning Consult,797,38,45
+2020-10-25,OR,9,SurveyMonkey,4932,40,42
+2020-06-20,WI,136,Morning Consult,797,43.6,46
+2020-08-17,LA,78,Trafalgar Group,1002,53,45
+2020-10-13,MN,21,SurveyMonkey,3675,40.9,33.54
+2020-10-15,NM,19,SurveyMonkey,1839,43,52
+2020-10-31,WV,3,SurveyMonkey,798,43.9,54
+2020-10-21,UT,13,SurveyMonkey,2304,43,39.99
+2020-10-20,AZ,14,Morning Consult,1066,48,38
+2020-09-27,GA,37,Quinnipiac,1125,49,29
+2020-10-27,PA,7,CES / YouGov,2703,48,40
+2020-10-27,MI,7,Mitchell,759,47,33
+2020-09-26,NC,38,Redfield & Wilton Strategies,1097,39,53
+2020-10-13,KY,21,SurveyMonkey,2279,40,60
+2020-10-11,SC,23,Morning Consult,903,45,51
+2020-08-04,PA,91,OnMessage Inc.,400,47.4,29
+2020-08-31,WI,64,Morning Consult,819,41.5,41
+2020-10-19,GA,15,Siena College/NYT Upshot,759,47,36
+2020-11-02,SC,1,Øptimus,817,49.45,31
+2020-07-31,IN,95,SurveyMonkey,2175,50,39
+2020-08-16,GA,79,Morning Consult,1265,47,46.72
+2020-10-30,IA,4,InsiderAdvantage,400,37,49
+2020-08-18,MI,77,Redfield & Wilton Strategies,812,46.6,49
+2020-08-11,WI,84,Morning Consult,797,48,50
+2020-10-25,MN,9,SurveyMonkey,5004,51,45
+2020-06-16,WI,140,Morning Consult,797,38,46
+2020-10-17,SD,17,SurveyMonkey,773,39,9
+2020-06-23,PA,133,Susquehanna,715,52,46
+2020-10-31,DE,3,SurveyMonkey,664,37,46
+2020-10-15,MA,19,SurveyMonkey,4077,49,48
+2020-10-17,AZ,17,SurveyMonkey,5909,49,39
+2020-06-05,MN,151,Morning Consult,600,43,49
+2020-10-24,CT,10,SurveyMonkey,3469,47,49
+2020-06-28,PA,128,Change Research,760,43,49
+2020-10-15,KY,19,Mason-Dixon,625,45,38
+2020-07-31,VT,95,SurveyMonkey,368,44,56
+2020-06-27,WI,129,Morning Consult,797,46,46
+2020-08-16,WI,79,Morning Consult,788,35.17,41
+2020-10-06,MI,28,Opinion Insight,800,70.95,27
+2020-10-25,TX,9,Data for Progress,1018,40,43
+2020-10-16,DE,18,SurveyMonkey,952,37,52.8
+2020-10-17,VA,17,SurveyMonkey,5595,46,46
+2020-10-28,MI,6,Kiaer Research,669,48,43
+2020-10-15,NY,19,SurveyMonkey,9675,42,49
+2020-10-13,MA,21,SurveyMonkey,3704,38,50
+2020-10-10,FL,24,Redfield & Wilton Strategies,981,53,32
+2020-10-23,NE,11,SurveyMonkey,1704,56,33.7
+2020-09-25,NH,39,Pulse Opinion Research,850,52,48
+2020-10-25,KS,9,SurveyMonkey,3143,37,49
+2020-10-26,WI,8,Ipsos,664,50,44.8
+2020-10-22,KS,12,SurveyMonkey,3041,42,43
+2020-09-22,FL,42,St. Pete Polls,2906,61,38
+2020-10-19,IN,15,SurveyMonkey,4001,27.06,44
+2020-10-19,SD,15,SurveyMonkey,817,51.43,34
+2020-08-31,OK,64,SoonerPoll.com,379,43.9,45
+2020-10-20,MA,14,SurveyMonkey,4820,42,49
+2020-09-30,NM,34,SurveyMonkey,1015,43.5,39.45
+2020-10-26,NV,8,Siena College/NYT Upshot,809,60,38
+2020-09-30,UT,34,SurveyMonkey,1192,50,42
+2020-08-09,FL,86,Change Research,469,40,46.6
+2020-10-23,NC,11,YouGov,1022,35.22,56
+2020-10-30,CT,4,SurveyMonkey,1907,56,42
+2020-10-29,DC,5,SurveyMonkey,490,49,47
+2020-10-31,NC,3,InsiderAdvantage,450,48,31
+2020-09-07,VA,57,Virginia Commonwealth U.,693,61,28
+2020-10-05,IA,29,Quinnipiac,1205,37,50.69
+2020-10-15,DE,19,SurveyMonkey,900,39.02,48.26
+2020-08-31,NM,64,SurveyMonkey,1087,38,51
+2020-08-31,ID,64,SurveyMonkey,737,42,44
+2020-06-28,WI,128,Morning Consult,797,36.5,46
+2020-09-06,PA,58,Change Research,829,53,44.5
+2020-07-16,PA,110,Pulse Opinion Research,750,49,44.97
+2020-11-01,LA,2,SurveyMonkey,1388,45,42
+2020-09-30,AK,34,SurveyMonkey,563,47,47.45
+2020-10-15,DE,19,SurveyMonkey,900,59,38
+2020-09-16,NC,48,Siena College/NYT Upshot,653,47,49.71
+2020-09-07,MI,57,Morning Consult,1455,50,43
+2020-06-03,MI,153,EPIC/MRA,600,40,46
+2020-10-15,HI,19,SurveyMonkey,896,53,10.51
+2020-10-24,ME,10,SurveyMonkey,1743,42.87,44
+2020-10-26,VA,8,Swayable,351,48,39
+2020-10-22,NM,12,SurveyMonkey,2431,44,41
+2020-07-31,KY,95,SurveyMonkey,1709,60,34
+2020-08-24,PA,71,Greenberg Quinlan Rosner,500,49,41
+2020-10-25,MN,9,Trafalgar Group,1065,38,49
+2020-10-13,KS,21,SurveyMonkey,1717,45,36
+2020-10-31,FL,3,SurveyMonkey,7807,59,32
+2020-10-21,NY,13,SurveyMonkey,9873,36.7,47
+2020-10-12,NH,22,U. New Hampshire,899,25.07,47
+2020-09-22,IA,42,Monmouth U.,402,50,40
+2020-10-20,AL,14,SurveyMonkey,2890,59,33
+2020-10-24,PA,10,SurveyMonkey,9903,44,46.5
+2020-10-23,TN,11,SurveyMonkey,4565,44.4,45
+2020-09-25,NC,39,U. Massachusetts - Lowell,921,52,38.4
+2020-08-23,PA,72,Change Research,984,53,43
+2020-10-16,WV,18,SurveyMonkey,972,53.06,46
+2020-10-24,AL,10,SurveyMonkey,3120,48,41
+2020-10-28,KS,6,SurveyMonkey,3442,48,48.8
+2020-09-01,OH,63,Anzalone Liszt Grove,500,34,46
+2020-10-22,AZ,12,Susquehanna,500,38.11,51
+2020-10-17,VT,17,SurveyMonkey,759,51,32
+2020-08-04,AZ,91,OnMessage Inc.,400,44.5,49
+2020-10-30,AZ,4,SurveyMonkey,3824,45,48.13
+2020-09-21,TX,43,Quinnipiac,1078,53,29
+2020-10-30,MO,4,SurveyMonkey,2835,49,42
+2020-11-01,KS,2,SurveyMonkey,2159,43,44
+2020-10-31,MO,3,Morning Consult,1109,47,31
+2020-10-27,IN,7,SurveyMonkey,4585,48,45
+2020-06-11,FL,145,TIPP,875,45,48.7
+2020-08-28,MO,67,Trafalgar Group,1015,44,45.5
+2020-09-27,DE,37,University of Delaware,847,46,36.1
+2020-10-11,PA,23,Ipsos,622,42.3,51
+2020-10-16,AK,18,SurveyMonkey,898,45,43
+2020-10-22,FL,12,SurveyMonkey,14080,47.5,46
